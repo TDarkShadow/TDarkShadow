@@ -1,0 +1,26 @@
+name: Metrics
+on:
+  # Schedule updates (at 5 UTC every day)
+  schedule: [{cron: "0 5 */1 * *"}]
+  push: {branches: ["master"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Europe/Brussels
+          config_twemoji: yes
+          repositories_forks: yes
+          plugin_followup: yes
+          plugin_gists: yes
+          plugin_habits: yes
+          plugin_languages: yes
+          plugin_licenses: yes
+          plugin_licenses_ratio: yes
+          plugin_lines: yes
+          plugin_topics: yes
