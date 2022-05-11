@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (at 5 UTC every day)
-  schedule: [{cron: "0 5 */1 * *"}]
+  schedule: [{cron: "0 5 * * *"}]
   push: {branches: ["master"]}
   workflow_dispatch:
 jobs:
