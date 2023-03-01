@@ -11,15 +11,23 @@ jobs:
     steps:
       - name: Github Metrics
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.32
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Europe/Brussels
           repositories_forks: yes
-          plugin_followup: yes
           plugin_gists: yes
+          plugin_support: yes
+          plugin_followup: yes
+          plugin_stars: yes
+          plugin_stars_limit: 3
           plugin_habits: yes
           plugin_languages: yes
           plugin_lines: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_visibility: public
+          plugin_activity_filter: all
