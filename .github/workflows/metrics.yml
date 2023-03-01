@@ -19,7 +19,6 @@ jobs:
           config_timezone: Europe/Brussels
           repositories_forks: yes
           plugin_gists: yes
-          plugin_support: yes
           plugin_followup: yes
           plugin_stars: yes
           plugin_stars_limit: 3
