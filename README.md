@@ -1,1 +1,3 @@
-![Metrics](https://github.com/TDarkShadow/TDarkShadow/blob/master/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
