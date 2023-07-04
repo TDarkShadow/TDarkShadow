@@ -7,15 +7,14 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    if: "github.repository == 'TDarkShadow/TDarkShadow'"
+    permissions:
+      contents: write
     steps:
       - name: Github Metrics
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.32
+        uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Europe/Brussels
           repositories_forks: yes
           plugin_gists: yes
