@@ -33,8 +33,8 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -459,7 +459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Geborgen/nordic-souls</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nordic Souls is a comprehensive visual and gameplay overhaul for Skyrim SE/AE designed to "freshen up" and streamline the game while staying true to Skyrim's Nordic theme.</div>
@@ -500,7 +500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GitSeekker/CMD-Batch-Collection</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Personal compiled Batch Scripts.</div>
@@ -547,7 +547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maharmstone/btrfs</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WinBtrfs - an open-source btrfs driver for Windows</div>
@@ -777,7 +777,7 @@ It doesn't need to be run, as Wabbajack can delta patch the vanilla files to the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2023, 07:02:21 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Jul 2023, 07:02:06 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
