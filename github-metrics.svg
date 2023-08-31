@@ -33,10 +33,10 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -459,7 +459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CommandCrafterHD/Fallout4TerminalTheme</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -481,7 +481,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        404
+                                        402
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -507,7 +507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/open-vcdiff</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An encoder/decoder for the VCDIFF (RFC3284) format</div>
@@ -560,7 +560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Night-Crew/Njombers</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1055,7 +1055,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        53 hours played
+                                        54 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1063,7 +1063,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 30 Aug 2023
+                                        Last played on 31 Aug 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1072,62 +1072,62 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            138 / 190 achievements unlocked
+                                            144 / 190 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQQFBgD/xAAsEAABAwMDAgUDBQAAAAAAAAABAgMRBAUGABIhBxMiMUFRcRRhgSNSobHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAkEQACAgEDBAIDAAAAAAAAAAABAgMRBAAFMRIhQVEiQrHR4f/aAAwDAQACEQMRAD8ANOmwZriVjud6szIbCJCT4UtpSAlRJSAVE7Rx86IwPFKmlTU2rEmbgwTBLLjgUPvCiJ/GlMHu1HYujNuuV0R3KBhg91GwLKpcUAACRySR6jVvpdcrdlbSrji1VWW4sL7dTSOKnZxKTPMpPp8EamYuCZQ7iVh8mFdTVQY+jembnus8M5QJ8aHehdkA+dc30uxkW9NVWYmzSBSo2OLWSB+4wrgaXvFDZenmN5BVWuzMlOwbkp8SXEqEJIUqSmNx/wB0rlnV24YLc/oa7F6n6VwqV3qiq/UeUeVKBG5IHIhIMj1GlM9yi35X0tyCstT6HWUNNpKQgpU2SpJ2qn1+NCmgmjkXqdipdfs1EEjtV6ZgZzSMvHB8DkA+Rqh0woWrt0it1sq6dNRSVlOW3kK4G3uKMzIiCAZnWkwypxfAKI2WyvoQt9wuOqLhcCjESpXkSPIAcf3rKsvY5iWCWO13DI+33GyhagOefEqAJ2xIg/PHsLXmmGWloN23JqRoTKiunLij+SidNxc0RI6iJmtmIPS1UWJ5AP40Lc9qyJckuGoUO3a7Argka0N/w+yZ66w7VNVNS4zUKbU0K1SWkRyVKT6mJ9j99ROqGLWvEulV4obOlgJW0HXizEFZcSPefIAc6eqOp2KP0TzCsmpW1uklbrDSm1Ee3CP589Tap3GsvwrIKG25Agr2pTwIJgSkwqN07TJ8/LjQZcmeSQF42C9SnuGoAEH1/dNwNuaFlo2aPrkivF/rX//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEB//EADIQAAECBQMCAwQLAAAAAAAAAAECAwQFBhESACExB1ETFEFShMLSFiIjMjNhY4GhsbL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAJhEAAgECBQQCAwAAAAAAAAAAAQIRAwUABCExURIyQWEiQnGR8P/aAAwDAQACEQMRAD8AnTWZ05P6IkU3nkibdWpJDEMCG8sQAoZADIkJBAPNjvo4HKKPFAOn3gfPrfI4QxnTii2h+uf4VplJaagvJOxyXWg4wkIDEWpCUrdUCAUqJAUBYqxIHFt+dLa7WuYps7u3ew7mAHyIEQfXnG273hspUiBsPA4nHPyuixz0/dHvA+fSOVzOnJBQ8/msjkTbKggCIhlEOWyBCRkQcSL3IHFxvrdFU2fDd+zUhTeykupKDf0TY75H0H78b6PT+E8l06rRoi34B/zoXO1jL01dWbuT7sZBYDUEnnFLZdGr1emQdDsBxO+K3TpAXRFH3TkEtRBt3+9pV9IYJ1qXQ0zhi20ylRDmJS+CRvblPFkAKHAvcDg0pFN0tRVNwcbUYYiWgcHSnIoJ3V9UXtYEAE9zt2lx87pKNJLtcNi/swpHw6va7rRy+XKMrT1OdFbWWYgggHmDPvGe8Wapmq4baAPIG0fjjT94bvThEZ4UHAvNGCbBMKh1g5w3e5BF1EknZSk29BsNGeo6AmiqxxGxahz/AFqZAzikYNQLVcIJHtQt/h1WS3TdUUTUcHAVIl+JcCQ47jiVkXKTibA7CxI/LbuLndqWYy4QK09SHsYAQ4JJJA49kk4az2d8pV+PB8z4gf3GP//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>VII - Iron Blue Will</div>
-                                                <div class="unlocked">26 Aug 2023</div>
+                                                <div>Victory Sword</div>
+                                                <div class="unlocked">31 Aug 2023</div>
                                             </div>
-                                            <div class="description">Reach Level 50 with Gennaro after unlocking the Randomazzo.</div>
+                                            <div class="description">Defeat 100000 enemies in a single run with Queen Sigma.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EADAQAAEDAwMCAwUJAAAAAAAAAAECAwQFBhEAEiEHIiMxUTNBssLSFFJhcoSUobHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIFAP/EACIRAAICAgICAgMAAAAAAAAAAAECAxEABDFBEiJCUROB4f/aAAwDAQACEQMRAD8AnVWp25X7IoVXrlCbdWpJDEYEN7toAUNwA3EhIIB88HnR1Lllq8un7x/UD69d1DiGZ04stoDPtz/CtEbop8p6VTY9KXLcnyFKSWWVE9uMg4Hv/wA1O14UVCzljbPXuwAAYjo5b2tiZpvGOuB0DdjEBXZY8+n737gfXpHS6nblAsev1Wh0JtlQQBIjKIcxuBCRuIO0jOSB5ZHOsolQKxTZ9OfkiemG++GQp4q2lQVzrRK/E+xdOr0axj2B+HRngR4w6FhTJfuxBBYCjZza2xOk/wCOUUaPVdXlfp02HLJs4KGQGpB+LQqtR0y6S8pjwZrHiNqwckp5wCOQSMgH35wdOVItu1rKtuHNuMMSWgdjpTuKCeVdozjAIAJ9Tx6S59atGaSXb3bTn7sXHy6eKaKSAKfIFWf4MQQWJBBA/X3eDZ1plnLKBwO6qhWZFT49TXLYbfVJkNB9DiN6V9ncCTyOONbb1HSE2TeO0YBajn+tTYNYtGGoFu+EK/NFz8uqyW7buiybjhwLkS/JcCQ47t2lZGSk7TgHgYJH4cerTbESweChiSyfBgAA4JJJH9vF1NWczhm+iOb5FDP/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABAIFBgP/xAAqEAACAQQBBAIBAwUAAAAAAAABAgMEBRESBgAHITETUUEVYXEiQpGS8P/EABYBAQEBAAAAAAAAAAAAAAAAAAMCBf/EACARAAICAgIDAQEAAAAAAAAAAAECAxEABTFBBBIhUYH/2gAMAwEAAhEDEQA/ADT1Fg5XxDj1xvFijlklwkFOCI8kYVv6hjYkLnB+j56hUcX4TQ1DR3bi0NAmoaOSSVmWYEgDQh8N7+/x1TWqrmou03FpqR3iqCJI0kRiCuxYH1+2R1R8045Ucqq6GOKWOmlpwTWSyE6KGIwxUeseAcfjoddrl8iJ5PZiQ7Cg7D4GIrn+5p+fsJIpq+VQ6HYvNlQca4TdGZbNxWC4FDiT4Z2Gnv7cbHx6GemP+i8L4hf7hbbAkLaD5YThwwYEKQ5BwRsfX7eT1huAWO6cXkuDWmSOsqJXRYKuJWKqqnOyg/kkDyR6Hj31puYR3Fe2vLZbzUPUVsxSR3c5Pkr/ANjq9jq1ggjlDMD7oCC7H4WA/cPW7GeTySjURR6A6vDcb1bt1wiNxsHldcffluoVsZiqay2VF3pbNJcTIJ3qWVZfiDa6oGONm+z6Az+er6McV4twrjtBdr6u6qwViPKsRkka51xsMH+fH0pub9vJ9FuNfaLhCpB+OqpmfcjwCzaZJAOP8dTrdmnjwyIUYks5BCsQQWvkDL2OumlnsVVDkgcCu86du0id6rjtNeqe601BCsqz0rL8nxltdJCvjZSPY8kEdde8dFS0XbW9CjLneFWfc5O26/npVg7m9v7CGW11NmpkYklYYHjz/qo6LyO8WDuJxfkUNHfoVYgKqRrgL/cMBsbA6nJ/jx9jsNkZ0RPRgAyk2rAABgeSMTX654pb+cHu+RWf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>EXTRA: Astral Stair</div>
-                                                <div class="unlocked">26 Aug 2023</div>
+                                                <div>XII - Out of Bounds</div>
+                                                <div class="unlocked">31 Aug 2023</div>
                                             </div>
-                                            <div class="description">Reach Level 80 in Inverse Inlaid Library.</div>
+                                            <div class="description">Reach minute 31 in the Gallo Tower after unlocking the Randomazzo.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYHBP/EACwQAAECBQQBAgUFAAAAAAAAAAECAwQFBhESAAchMVEUM0GEocLSIlJisbL/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQUCBP/EACQRAQACAQQBAwUAAAAAAAAAAAECAxEABDFBEiFCYQUiMlFx/9oADAMBAAIRAxEAPwA6aTOnJ/REim88kTbq1JIYhgQ3liAFDIAZEhIIB7sedTocos9bfvH5gfnrukcL6zbii27X98/RWo+kZFP5xHTqIblc4joOHKlocRmW7ZkYoSHG8lk8AJUTwRiexOooI1SsfOX3T9CcjATT0B1X3u8sjd4mODo7M6oiuix3t+8PmB+eqOVzOnJBQ8/m0jkTbSggCIhiQ5bIEJGRBxIvcgdXHOsgmUc43V0BAsomUE428luJh4gONG+Q4La1rINu7q5uOBbnTJ/Cei26rRoi3sH/ADouojOqNkfOOJQyM5PoyDCLo2W8sbvFxw9HRnSu3jYcoakARezMSforWlU3U0tk8slK3ImH9RCtNtrYDiUkEBYJIJ7GZ48geTbOymm6WoqnIONqMMRLQODuORQTyr9IvawIFz5PHguPnVIxpJdrdoX/AGwtvt13bD6hVXQxlGX5T9kkRkoiHzj950t7srW5QODsODHeid6oWHm+58nncmQ9EmNcQXykJWRgpIBVh0e+/gBqn3HQE0VWOIsC3Dn+tGQM3pCCUFNVu2T/AChb/bpZKKbqiiajg4CpEvxLgSHHccSsi5ScTYHgWJFvhx5xvd7VOp8YyzKVfskARkKqnx/cvGlsdldG4XHD2PJjX//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EACsQAAEDAwMCBAcBAAAAAAAAAAECAwQFBhEAEiEHMTNRYYEiQYSxssLSUv/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBf/EAB8RAQABBAIDAQAAAAAAAAAAAAECAwQRQQAxEiEisf/aAAwDAQACEQMRAD8AnVWp25X7IoVXrlCbdWpJDEYEN7toAUNwA3EhIIB74POjqXLKV26fvH6gf3ruoUQzOnNltAZ8c/loIqS4ustxlOOuNrkhtTaHShW0qxwRyD8/bWK0tItOU5MnMp4POR6JJgw8697eVSriOOjRszxaV2WO/T94fUD+9I6XU7coFj1+q0OhNsqCAJEZRDmNwISNxB2kZyQO2RzrMZD62LgfiB5wNtS1MoSXSvKUqwMk8nOM++ndfiGF06vRojHgH8dF3aRKcZxZGJQyecn0yDDl4WV7UlV8XHTo0Z5X6cthyybO3DgNyD99ZZAbnJuND0Zox3m5ClpecQVJQAo8gcDt275zrV1Itu17KtuHNuMMSWgdjpTuKCeVfCM4wCBk+Z48pc+t2jNJLt7tpz/mLj9dW2t5TKIfQxlN9Qk5zNREP3euRvrKrKsuDoOw6Mb4WvWI/EvOWy+pupvGSHU1KIMJeSpecuAZSTgc4xjAxwdOeo6Qmybx2jALUc/bU2DV7QhKBavds+iouf11WS3bd0WTccOBciX5LgSHHdu0rIyUnacA8DBI9OPNXN3TaKfSylB9wkBiYqqfm9cdjZVo1hQ6dj2Y1z//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Bianca Ramba</div>
-                                                <div class="unlocked">24 Aug 2023</div>
+                                                <div>EXTRA: Tiny Bridge</div>
+                                                <div class="unlocked">31 Aug 2023</div>
                                             </div>
-                                            <div class="description">Defeat a total of 3000 Milk Elementals.</div>
+                                            <div class="description">Reach Level 80 in Inverse Gallo Tower.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwcC/8QAKxAAAgEEAAUDBAIDAAAAAAAAAQIDBAUGEQAHEiExE0FxIiMyURRhFULh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAhEQEAAQQBBAMAAAAAAAAAAAABAgADBBExEhNBYSEyUf/aAAwDAQACEQMRAD8A4U2HMsQsVzu9jic9B9OHYQAKArfUNdRPSO3zwJqbTgVNTTTSYrGEhRpG+43gDZ/2/riYy6x8qMZd2RVHXsuQB+TfvtwlXe/x41DVUqVD1lLMHSFBMHeBipBQn3TvsH28d+JGLjdzrWcvtINSka1J91Zzs25C5o1weD8rSMaw7D8ieFbfiUTeqiurGR9aI2O/V+jwXyKzWvljjd8q6KxwBZIgxCEOkqsOlWVm2V0WP/eM9xjKo8kxr+BLXNb7bSRRrLSiVY2rJQO0bN7Q6BLe7eO3DRzAvct95Y5HPNPBOI0jjRoCOjp2ugAPA/rhlY3b6EnL7RHcpOxke6YObcnc064fB4KowexDIuWeK0DUcdWrdbFJEDAaLd+/jgZmOG47k+OVNVjlPTWyitImH+QFP0tcpwNskajQ9Jek6fvsnsNA8OOP3iwcvcTsFLV36Ilo2jkSRNhwRtgQNkAdQ7/I1wFvOUYVdlmSpyxPSaBqeOMI4WFCCNIOnQ0Dr44YuT2+sYSRlJEiojJ9UzsK5O7s1wHy64KzvF7TZ8ft6y3mlhroqmOKVpngDPSuy7UFTv7Z3+Q8Edx406ZFHRwcpsmht9CKOFQh6UjCK5JXZGvPzxVT1fL2n9Ew5UA8cUcIYox2iAgA/R7778HpXxzLMFv1ut+RRyOFVNqnT47r9J1vfT3Px2/bKye50BCQEoqsUAJD+UwcK5C7t1wnw75K/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEA//EAC4QAAEDAwMBBQgDAAAAAAAAAAECAwQFBhEAEiExBxRBUaEiM1JhlLHC0nFygf/EABkBAAEFAAAAAAAAAAAAAAAAAAIAAQMFBv/EACMRAQACAgEEAQUAAAAAAAAAAAECAwQRACExQWEiEhMyQvD/2gAMAwEAAhEDEQA/ADqrU7cr9kUKr1yhNurUkhiMCG920AKG4AbiQkEA9cHnU4HLKPSwHfqB++t9DimZ2cWW2Bn359FaprXi0ZNvOuTIZmTJLrK0b2kqS0jar2E55zk8nxwOBjVbVXVVTK22UncpgfXI7STXR5piGRmXsK9AEduh78iy5ZQ62A79QP31R0up25QLHr9VodCbZUEASIyiHMbgQkbiDtIzkgdMjnXG/F0qmpi93hhl07shltISojGUqx/PXw9NYa9EMPs5vRojHuD6J09tNdtEbq2Z84CM5IjIPLxShfh5BXNERR0HY4x2cthyybOCugakH76Hq9cqVqqTT24zKkhISiQSTvAGMp+E+Y56/wC6cUi27Wsq24c24wxJaB2OlO4oJ5V7IzjAIAJ8zx5Fz61aM4ku3u2M/DFx+Op6LsWzG+3bGWyU0+MkRku+h789RODGeVh5EpVhpARQ7Hv+eC97qF7zIcNTEeMzGzlxAOEhWMk5PJ44Hjqq7R0BFk3ht6FqOfto2DV7QhKBavhs/wBoufx0slu27osm44cC5EvyXAkOO7dpWRkpO04B4GCR8uPMsjKx4YpVXGX5Q/SQATFVT17dvB3k5eSWWBoENI9zXjn/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>V - Chaos in the Dark Night</div>
-                                                <div class="unlocked">24 Aug 2023</div>
+                                                <div>EXTRA: Chaos Rosalia</div>
+                                                <div class="unlocked">31 Aug 2023</div>
                                             </div>
-                                            <div class="description">Reach Level 50 with Giovanna after unlocking the Randomazzo.</div>
+                                            <div class="description">Find the Chaos Rosalia.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAwYH/8QALxAAAgECBQIDBwUBAAAAAAAAAQIDBREABAYHIRIiEzFRFBUyQUJxgiNDYYGisf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAIxEBAAICAgEEAwEAAAAAAAAAAQIDBREABDEhIkFREhMywf/aAAwDAQACEQMRAD8AiFaDrTSVCqVXokTDoPRHwgUKArdy26iekcffAI07oVs2+XXTMBdFDN+o/aD+WDtssumY2yoHiC6pG7f6bBNDpcEuYzmZmimaGWFmVssAxaT6Q9/ptf8Aj1wzE4qi/r2X2ym++YBKRrUk+Hh5fMdintNUNAB5Dym/nicaf0CZUjXTkDO6l1Ad+4D07sHP7i0bo6u1KkUONFZB4kRswYMLLy1ypHUePtg7U1Az2V92VHP5RIPHsVkkmLsCFBsR8u1eBc+VsL9yMt7PthqDz6XRWAPmB1LjZXFUU9au+myX9wH3yR3IE9XncTl+zb2iq0PUXwGtG/jl22KtLtZRIIiolljIXqNhw7Mbn5cD54ymot5Y6fqGTI0hY1yWUv4uZijEntUij4F5AWNm46xc25Aw4quR0vSNt6LQ6tqUw+JGyFwL2vy3YpI4BFifIk8eibTmQ2apMcftuagq068mTNzTqD+CKB/3EHTys6KpUxhLX5zdkZOxkv1ynJYVv7DZPXgNLrwB/npzoO1marerdICsV+Ixq7mOnwdLCJIwBd0DE8MTb0sthxgDdeGTLbXVnLTkGWKIK1uf3FPn/eNNJvXo1stHAtQpkcMahUSMSqFUCwAAXgYQajrFA3E0rqHL5KvRKekKqIPh+oWDWLAlTc39MF3cmXdeFJXI1OKrFA1Ifri8Zhrqe3+6Sa0gDvya5//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EADAQAAECBgEBBgMJAAAAAAAAAAECAwQFBhESIQAxBxMUQVGhFWHSFiJScXSUscLi/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAIREAAgICAgIDAQAAAAAAAAAAAQIEEQNBADESIRQiYVH/2gAMAwEAAhEDEQA/AJ01mdOT+iJFN55Im3VqSQxDAhvLEAKGQAyJCQQD1sd8OByiiNUA7+4H1875HC+M7OKLbte3fq9lcMPKh32W4uIabeYKRELU8CWmGSSEAo81nVz5b35cyQ4iHG2R2b2z192AADEaPOtOm5Vy+K10NDY5ZLlFAX+wDtv1A+viOVzOnJBQ8/msjkTbKggCIhlEOWyBCRkQcSL3IHS43zP3CiXIcjYdjBhCkPKLWmYiHXrJLfkvWvy6niyfQng+zmtG7Wv3CvZPCZEQY1yIzemS/uxsFgNnhBm5Wy+LV0dDQvljs5bS5RNHBQuA3EE+/CFWStMkfU065hBpGLK1MlyHUzfTbqQdKTcAEnfrckcZqRTdLUVTcHG1GGIloHB0pyKCdq+6L2sCACfU69JcfOqRjiS7W7Yv+GFt/Xl0SbgEY42VrDOQQjEEFibBAP8Afw2ORnQczZ/IV0NgdCt8HyiB+PviXS91x+HiFITFxSEd0y2ymxLaBsAi+hs3306aB2joCKJrAJ6FqHP8cmwM3pCCUC1W7Z+SoX/PKyW6bqiiajg4CpEvxLgSHHccSsi5ScTYHQsSPlr1UqZh+OEVWssh9owAAYGySPz9Nnjgwcy5wTXR2D2K1z//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>XX - Silent Old Sanctuary</div>
-                                                <div class="unlocked">24 Aug 2023</div>
+                                                <div>EXTRA: Trisection</div>
+                                                <div class="unlocked">31 Aug 2023</div>
                                             </div>
-                                            <div class="description">Reach minute 31 in the Dairy Plant after unlocking the Randomazzo.</div>
+                                            <div class="description">Find the Trisection.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+133 others...</div>
+                                            <div class="description ellipsis">+139 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1158,7 +1158,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 29 Aug 2023
+                                        Last played on 30 Aug 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1328,7 +1328,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2023, 07:02:20 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 Aug 2023, 07:02:17 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
