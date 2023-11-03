@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simonmichael/hledger</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LGUG2Z/nixos-wsl-starter</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sane, batteries-included starter template for running NixOS on WSL</div>
@@ -492,7 +492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LGUG2Z/komorebi</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiling window manager for Windows 🇵🇸</div>
@@ -519,7 +519,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        100
+                                        101
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -974,7 +974,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        67 hours played
+                                        68 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -982,7 +982,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 2 Nov 2023
+                                        Last played on 3 Nov 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -991,7 +991,37 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            167 / 196 achievements unlocked
+                                            170 / 196 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYEAQP/xAApEAACAQMCBAYDAQAAAAAAAAABAgMEBhEFEgATISIHMUFRYaFShMLT/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAnEQACAQMCBAcBAAAAAAAAAAABAhEAAwQhMRJBYZEFE1FxobHw8f/aAAwDAQACEQMRAD8AmZ57Z16xNA1XW9BQyhWihp4W5PM2AK3cuNxYKCAfnr7jLBZZ8rFqz+6f9OEbXpDWeHVnxAZ76k/bcaDHRPqdRp7VPIWmRTK0boskkjEBY0ZgVByQWJ6hfIeov5dxccBioM9KRVLmNgAJMftaHNPZi+diVY/dP+nDVNUWzoNi6/qmi6DGshRY56eZuds35Ve5s7SNxJA+Ovty51teeqoqaxGNXVSGNmYVc0rKN3eCrsQBsz1I8z6HjwuqkNF4d3hFjHfTH7XgvDcs5Ut5fDFLdtrbAIMgzyA270v4WxiSy7S3DIAqj9txP3ZZ5luTUqrUKgnR5d9TiDPNEhUKBjrnGM8OU01tWvZFt0lZcgjq1DOkiJvMZbubtXOMBgMn56e2SvuS060ky3njP40LD+eKGbii6qqTDLp8/XbaitXDbaYBBjQ9B/fUVZW+2nU8MMdHTwxhIxGGVArEAeuB8cTvikoWy7t2jAIpT9rwZQ3BaVGwaK8ySPyoWP8APG2pltq6LHuOkorkWSrba7yOhjMhXLLhWxnO0gkfHT3TFtcKFBudAB7ijJd3LuZ35zX/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Summon Night</div>
+                                                <div class="unlocked">3 Nov 2023</div>
+                                            </div>
+                                            <div class="description">Survive 15 minutes with Syuuto.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACsQAAEDAgQFAwUBAAAAAAAAAAECAwQGEQAFEiEHEyIxUUFhoRRShMLTFf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAjEQACAAUDBQEAAAAAAAAAAAABAgADBBFBElFhBRMUMYHx/9oADAMBAAIRAxEAPwBZffpnPqEyDNc7yFBdCVNMx2VcnmaAEq6k21FQSCAfffyHTHos9qEmH80/0wQpeIZnDqj2gL9ck/KsTenFO5jxGiwJknMTBcnlLqIyVvL0BRJAQk3Ow9PTG3WTvHZRoBuMwS2BxiHkx6MT3oSYPzT/AEwZjSKZyGhc/wA0yXIUJcKEtvx3lc7RrulPUoHSRqJIHtv4Qq+XHiV/FRkDeawcrdcQORLdWTq1kKAB7Dt0ncdjh1qqJ9Fw8rBq1uuMflOK0k5pkxlZACu0BWv9BxBfhc2HKLpLUNgJR+VYmf8AkJYntzIzDwXJS8laiSCl4OG5t6JKSm3nfFIjPU1S9EU3EmVIG5aQpaHEI1lsq6ldKb2sFAXPvt4xz6jpKaSXaz03+2Cofrh+p0HkqqatJUEG459xemntTT1nKAbWzxaEXNETc1n5Y5MLi3IjiGdI5i76bHmXULAHtbft7YpfFJITRdWaRYFMU/KcDINQUlDUC3WZVb7oKj+uNsl2mqnoeo4kKpEuS1aVLcWgtlwpupNkqte+kgke23lun0fYDC9ywAsAd/f5CTZhmuWPOd/Q+bmP/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Babi-Onna</div>
+                                                <div class="unlocked">3 Nov 2023</div>
+                                            </div>
+                                            <div class="description">Evolve the Summon Night.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYE/8QAKxAAAgEDAgMHBQEAAAAAAAAAAQIEAwYRBRIAEyEHIjFBUWGhFFKEwtNC/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEAgX/xAAlEQABAwQABQUAAAAAAAAAAAABAgQRABJBUQMFEyFhFCIxcbH/2gAMAwEAAhEDEQA/AJmvXtnXrE0DVdb0FDVCtSox6LcnmbAFbvLjcWCggH36+o6x7LbwsSYfzT/ThC2In1nZ1Z9IffJPy3E3qjxKeo0a8tZnLLbZEZajUau0f6QeAyo7rYwfPjsP3QaKQCgG7NWN2y3Vw4ZAKQDBz9eaVMezF8bEmD80/wBOGY0i2dBsXX9U0XQUWoUWnXj1m52zflV7zA7SNxJA9uvox2jWPatO3Ieu2TrVdqqrRnvG+qdlqRWrcssAfAhiBjPkR5cT91xDC7PLwpEY78Y/K8OYuOupXsAt79qkBwdHHil+y+mKllWmGGQFln5biYvTVJWuUoMWnLj0UjKF3VOcDhVxhgq7DlvDzHr14o41a2rXsi24ky5BTlqGdKiJvNMt3m7q5xgMBk+/T0yTrktOaSat5lc/bBYfrw3mTAObATBTIgg7ooWvhLuQdZ1U2IumPpcLT4hnIsYoWnPuZaxDb6dHlEAoMliT1wfMji07UlC2Xdm0YBWKfleDINwWlDYNTvQsR90Fj+vG2TVtq57HuOJCuRakttrPUdDTNQrllwrYznaQSPbp6nlrH04WLpKoAAnc1kkqMmPg/lf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Megalo Syuuto</div>
+                                                <div class="unlocked">3 Nov 2023</div>
+                                            </div>
+                                            <div class="description">Defeat 100000 enemies in a single run with Syuuto.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1015,38 +1045,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EAC0QAAEDAwMCBAUFAAAAAAAAAAECAwQFBhEAEiEiMQdRYaETFITC00FSYnFy/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQIF/8QAJBEBAAEDAwMFAQAAAAAAAAAAAQIABBEDEkEFIWETFCIxUZH/2gAMAwEAAhEDEQA/AJl9+2a9YlAqtboKC6EqaZjsq+D8TYAlXUnG4qCQQD68+adMeyz2sSYfrT+TTC14hmeHVntAZ65J91aiavT0NwZspNXk/MpJcSyl1SBt384B78ZHHHHB767N/cxtGOYDupnRt9S4U08fEzx+ZqnMezE97EmD60/k05jSLZoNi1+qUWgoS4UJbfjvK+Ns35SnqUDtI3EkD058ssnMzodyNJjSag/T0vMAuqCwjrwQMnzO4euP11pd1RPkvDy8GsY64x906JYXPuJKQDBntS+cKPnim3hg2HLJtQEcBMs+6tFeME6DUYNuUuS+VU9qnoVvhNJdcadDQVs/iVKBSf750FGetq17ItuJMuQNy0hS0OIRvLZV1K6U5xgKAyfXjyDnXHaUwkuXntz+yCofbo/UrFuCAS2sciJ5rUJ+nJcDkOfqkM+4KjV62Xq3RkMRZbgU6iKlW0PoTtS4U5I788YGSSO5zX+KSQmyrswO6Yh906WQbgtGGoFq8yf9QVH7dGyXbauex7jiQrkS5LVtUtxaC2XCnKk4SrGc7SCR6cec6dZOhvN25lgAPNVKTJOwBnn9P7X/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Syuuto</div>
-                                                <div class="unlocked">1 Nov 2023</div>
-                                            </div>
-                                            <div class="description">Evolve the Four Seasons.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEAv/EAC4QAAEDAwIDBgYDAAAAAAAAAAECAwQFBhEAEiEiMQcTMlFhoRUjQYTC00JSsf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBAb/xAAiEQACAAUEAwEAAAAAAAAAAAABAgADERJRBCFBcTEysWH/2gAMAwEAAhEDEQA/AJl9+2a9YlAqtboKC6EqaZjsq7nvNgCVcycbioJBAPrx8xksWWeliyz96f2aRteIZnZ1Z7QH85J91aNjyPh1dajVmRMZZclO/Neihtoo6AE46bjnKcBIx9FYR0GodZJW5Qa8wiSTRRxj8josWWOtiSx96f2aajSLZoNi1+qUWgtpcKEtvx3ld9s35SnmVnaRuJIHpx8qKVbadmUpBGpW6ohhdnd4NEY54x906vKBu9QKQEmXVBwYX7LWw5ZdpBQyAJR91aobtYp9Upq4NQQFNnilQ8TavopJ8/8Aeh4amoz1tWvZFtxJlyBuWkKWhxCN5bKuZXKnOMBQGT68PLJPuS05pJdvPGf6wVD8daNRLqoQ+RsQe/kFla4MpxzGeg3LPtB1qnVlxMmioJSh8pIU2k+HaroQMHk8Q44yAMsdqSQmy7s2jgUxT7p0ZCuC0YagW7z3Y44XBUfx1tku21c9j3HEhXIlyWrapbi0FsuFOVJwlWM52kEj04ectHIaWrJddXYDG+cRViHa6gBoa0Pk9feOo//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Night Sword</div>
-                                                <div class="unlocked">1 Nov 2023</div>
-                                            </div>
-                                            <div class="description">Find a Night Sword.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQIEBgP/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEBQYRABIhIjFhBxNBUaFCUoTC04H/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAJhEAAgEDAQgDAQAAAAAAAAAAAQIRAAQSAyEiMUFRcYHwBWGRsf/aAAwDAQACEQMRAD8AzL79s16xKBVa3QUF0JU0zHZV5PmbAEq5k43FQSCAe/H3GDFlnpYss/mn+mkbXiGZ4dWe0B9ck/KtQh01yl1SKxUqg+mO8+5tLjGEkcQEKWfXOCMcMevHCb11qpbsuSghuce7KMmm+scdISQJiPqTVIsWWnrYksfmn+mmo0i2aDYtfqlFoLaXChLb8d5XnbN+Up5lZ2kbiSB24+yTVHjKfciNSQ8+2kqcCgcqOcZSemAQQQOh0LdUQwvDu8GiMc8Y/KdHtmz3sQI6VhgUcoeh5R5pfwtbDll2lu6ASj8q1p7jMGXBchzW0rZWPXqD7jvrKRnrateyLbiTLkDctIUtDiEby2VcyuVOcYCgMnvw9qk+5LTmkl288Z+2Cofrpq50gyYNxGwg9/5Q99HDoYIjnXFE+oUiVBjkpkMxlqMWRt3HCuoWOv8AvfS3ikkJsq7MDAKYp+U6Mg3BaMNQU3eZUR90FR/XV2S7bVz2PccSFciXJatqluLQWy4U5UnCVYznaQSO3D3U+Osjb5gNllAA6egAflUb2+N4NPJAGUNJBG9O3h3JPk1//9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Muramasa</div>
-                                                <div class="unlocked">1 Nov 2023</div>
-                                            </div>
-                                            <div class="description">Evolve the Night Sword.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+162 others...</div>
+                                            <div class="description ellipsis">+165 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1192,7 +1192,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2023, 06:02:05 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2023, 06:02:16 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
