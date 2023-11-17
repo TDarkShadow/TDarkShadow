@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2948" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2746" class="">
     <defs>
         <style/>
     </defs>
@@ -33,15 +33,15 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -397,7 +397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Grokitach/Stalker_GAMMA</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">S.T.A.L.K.E.R. Anomaly G.A.M.M.A. modpack definition files.</div>
@@ -418,7 +418,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        521
+                                        523
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -450,7 +450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rothgar/mastering-zsh</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advanced topics to take advantage of zsh 👩‍💻👨‍💻</div>
@@ -491,7 +491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ferroxius/LBOE</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight Skyrim AE modlist aimed at providing a general improvement to gameplay, visuals and content without going overboard</div>
@@ -650,7 +650,7 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            1654 games
+                            1655 games
                         </div>
                     </section>
                     <section>
@@ -664,7 +664,7 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            8.04k hours played
+                            8.05k hours played
                         </div>
                     </section>
                 </div>
@@ -972,15 +972,15 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAABAAICAwEAAAAAAAAAAAAABwYIBAUBAgMJ/8QALxAAAQMEAAUDAwQCAwAAAAAAAQIDBAAFBhEHEiExQRMyUQgUYRUiI1JCcWKRsf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABsRAQEAAwEBAQAAAAAAAAAAAAEAAhEhMVFB/9oADAMBAAIRAxEAPwCsQAGgDseCK2eN49dcluCYVlhuzXyeqWx7fya5sFolX68w7XBTzPyV8jeh5q7/AAuwq1cM8ZW7KWyiUEc8iUoe0fFVbJ2OOHf00RWEMy8vlF50gK9FklBR+CaZYeI4zi8MpC1sM61tx3fSgLih9Rc19yRb8RZ9BAJQt9wBXMPlPxR7wueVm2fxomWXqaWJCgAyl9SfUPwKdmzyuH+i41f4xZZf+4aPht3rRjnf03WO7Icfx+Q5DnEbBfWVp3/qiTj5aIWB5OxHxW7z2XQApcYyFEoHyfxXpw34/X7HXW418P6jbN65Uj+RPySo01NxrnODX3CZ3295hOtMqUUtvkftcP4qM6HXR6f+V9A7g3jnFnCSOZuTEkI0hxPuaV5G/kVSriThcvB8nkWqWpLzSRztuJGhynsP91Rial/6XcXZPr5HJa52/Ywf6LB6msz6hspu95uRxjHkuPhtIckFo90nwanPDBDdnw9DCeVLSXFqIHTvQzw6z+BjeSX9y8MGSXnlpbcUdkfu7bqevJwIjYgSZEhcdhhxclJ5VJA7GrD/AE68PFQ3VZFfYqmpCOkZtXdKh/lSHic/H73CNytESGoOEhWmxzA+d1I0vpQnlToN/wBU9NUWB+0A4/4K3lVlXdoDBXdIw5ilPudH9RVVJ1tmW9SRPiuRlk8oSodQavUZA7b6fBrWXxdmjQX5tziQ/QYTzqW42DqgxN1e+Ct/vOCZJDj3ht2NZ7koICnPYnzsfFL/ANQuNRskwt25spCpMFProWnu4D2ou4t8RrPkFjbgWiGA4heg6NaSPkfFLtpuAunDRoL67jpbUFdebQow7y1mCTUTMY/araFLUKrFkEZUe+T23E6/mWRvyN0qcF7+EQ3rW8vZRtaTv3b8Vp+MFiU1ck3SMjTDg0sAe381Tjqy9N2PwSvMy3ZKiIw4ftpJCFoPYD5FWOXJG9g6IOt1X3hFjrrkpq+F1KYyFEJQe5I71Ksj4nQra441DbVJf5iklJ6JP5om3lcXRtlb7neyTvXY0LcfL7NLzNracP2h/coJ6c2/Br1sfFeO+56dyYW0d+/ehXHFSxKvcH9YiPJShpAWUHuoUDTVdnIT5ANAA72BoVamyg23AW2nDoBkL/7FAfD6yKu+QsKWjcZlQU708Us8Sb61asWcipXp59PpNDfx2qvyzjw2whZ57truTM2PsKbVvl+aaLbd4WTWnldCV+oNON+RQfy7B8E+azLbcJNtdLkRZQ4Rog9qrjYxy1ym022XvHG302V31oLhJ9NPdNHkhLgeX66SlxRJUNdaSbTmTL7aG5f8bg7qPY1slyLVLBUpLCiR3CR1qDr20g+RDyBSuTRUfHSpzZmMiu8BMB9wsQT05lDxUkaVamQChDCT/wAkg1j3PLIcNBQwQtYHtT0ou6mIetIISbdiln01yoaQNrKvco+evxRLl18cv9zLx36CeiEnx+a63q9TLsf51Hk30SPA/NavlA1rt4/FUx+2cst8L//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQgDBgcEAv/EADEQAAICAQMCBQMDAgcAAAAAAAECAwQFAAYREiEHEyIxQRRRYRUygSNxCCRCUmKRsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHxEAAgICAwEBAQAAAAAAAAAAAAECAxESEyEiUTFC/9oADAMBAAIRAxEAPwBnVjWCMhj316EirGS5AXXI1mIL/XbvoVcs+YSvVwmg5bMDWoWe7XkcAsAV/aOfc6jyGTq08fJdtOIYYhyeo6XTx53t+gZfGwUb3lXaziWSPk91PtrQt33orG2tuy5KX/KWwpm6TxyCvOmn5QyWxZtt+IGFzuRanUsKkqn0xse8h/GrXFMjc+WpC88Hn5/GlI3SsW3dzY23t7IQySiXq5QfsHxzpoMZdEuMqTeYkqtErOUPsxHc6FfaNZDAeVlK/bUTS9uDoBayViSQLCp412VBNKB5vI0V+ivpEUC1MnXFqKTiNz0Ac+xGocrdxWIpm3kZlr1ogTIzn3Gqts/IiOVqT8mvN2Ruf2nUni1tifcGxb1aNXltxoTDFGeDIftprK+MWMtxYfFLKRbs3tPmKsHVG4EKoe5Kr7N/Oh+B3RPR3FVfJXJLFPkRiB2JCcfg6FEZChberPWdLEfpLH2HHxo7vmfbdrZlOHEVJUy6N1SydXPJ0svSLLwevEKdIsw01WNwsiB14PtzoNsbf2cwWXSzDeleMNx5crFl/wCtRTSrftQtG7P0QqrAnnuBoPilMxcgKCsjDuNak1ksjx+H+8Ku6sarxIq2YlDyL8g/f+2rlA7yTJ1KE7+rn5GlG/w35Vx4izx2raopRVEXPaX8DTbS5CKD946n59HH/mtLpivtGNYVkoX4vpJT5Ybn1nq6/wADWq7vz8eD2rNkuV+ojh6ogfluPbVW29h6OOR5ShkdQSCx5A0uni34lZzLZKaC1Cy4iBykSoOn1Dt3PyNUveSdFevkou5LORXPtN1fUNZlaVFUe5bvxoO16wuSV0QB1PrRh7aZzwW2NJitmXd15jGG1nJoyYa7gMAn+kgH8awiGClls3agVDDNPZcMp91PPca5W8HZGPJ38AD5iOvLNYqJxK69LqfYf21LjTJk6klfHVZJbZ9ThPsdEtw7eNS20UEfU6D1gfbVj8DPMx2+6M9iJEqzyeVJ1jkcDRhMnOvBXvDd4sLv3EXrErLDDP6mJ46W+erTpZDdFDDYdb87RvLKOqNffkfB0ovjZRp0PEG3DhJESpZAJ+yMe5Oj3hjlR+jSVLM8k/05LB526x/HPxppPIsUaTLvGShjZGWdXKAluftrEr1e1urKnH1E4SSQySMfgE86P5+f9ZotF5y1oF7yP7dtDdpVjTllsB2dmHQhU8cgaaTyx4v+jaMbuCbbuNA+qb6eCARt1tz7DjS6xZrFnMWZzG8btYd/N6uB3OrZvOhcnH1E1tl9I4QEgfyNZnNEt64YwB1L/tHA0ZV5Ro2cbx9L7duQ5OYV4JhHMVBV2P7tcuJjsUtyYv66wCYpurhOwI1VMzZVvpvIJV4SA7KeNTZCdq+frTtI3kFFPUT88aSusFlhqm9cRTy8Inr8fUREuOfdvxrOcZdlrzSVACkkp6Bx2760TFtLdppLKCh49H/Iaq+Uw01XKxWvL/p9fKnj51VwIqR//9k=" alt="" />
                             <div class="about">
-                                <div class="name">RimWorld</div>
+                                <div class="name">Assassin's Creed Valhalla</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Indie, Simulation, Strategy
+                                        Action, Adventure, RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -988,7 +988,7 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        12 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -996,7 +996,7 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 14 Nov 2023
+                                        Last played on 16 Nov 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1012,15 +1012,15 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                             </div>
                         </div>
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABQcCBgEDBAgA/8QAKxAAAQMDBAAGAgIDAAAAAAAAAQIDBAAFEQYSITEHExRBUWEiIwhxFUJS/8QAGgEAAgMBAQAAAAAAAAAAAAAAAwUBAgQAB//EAC4RAAEDAwAGCgMBAAAAAAAAAAEAAgMEESESEzFBUZEFImFxgaGx0eHwFDLB8f/aAAwDAQACEQMRAD8AR4zuBQQQeNvvWUgnKR1WkO5V8E8HFMvw8sOntSxPRrcVGvLZKk71ZEn4QkexpTLKI26RF16G6VrBpHYqExDcXkAHafei7WlrktpJEVxWeUkUwXVWDSsH1NwtMn1C3FMlpSxlOP8AauWNqRuY0VNAoaUcJHuPqpoXxVQLnEgeFkwpw2V5ijbkcfhUxWk7jt5jLye6Dyoq2Vls8FPBHxTns95sqnGIt1S+hbqtplbjsaHyRQfX69N2VT1vfZXLnqT5jMllWEYPWR70OaaJsmqjDtLuFiOIN/XPYhT1MUUhhlYQd2PlKQjvKTio4B74TXbOYCiFNLGw8muFZAGO0+9FCrKzQNjs4ribUVE54FXXRVycsk6Jc4qUiUwvKd4yKozCyT2Cn5qwiSkIb+h7VeRgOCMIXRjo3hxfkEW5p2+KtmZ1HBjXeA8mWuWgJbaZ4w7jKqXWjIC7ndUQFfpWhW1zPScVe/Bu9putsk6blPtNKwVRVKH5bz3g0KtkeFp/xEZMkORrS+75S33FcBY7Of7pFDJJTOkphwJb3/f6gxVT6MvDTkC3huPL0RuVc5Omb0uJGiRZlrgth58qaClYP2aX3h/Kjau8REx7pHW95zyjEUDhKDzwr5GPart4xQ7hYVS/Stlxi6Mhv1gGW3UdhKR8ikxbW5djcbdUXGX0nclSTg0WggMlO4uw8i19/aefklr6Z8sjXk4cLg8fu8InqJ1LV3uETCUlh5afxGOjiqy8+dxHtXS8+XJbrzxJU5ySezQmS5hR/unLI7ALTNVP1TdM5GFqSpScYog1KUUgE0NG8p5FTbPIyaMQlsE7ozhWvSeoH7JfIs+G4lL7SwUqUMgf2K9AaxgWnWFutspM1nzJeEtKbGE+cBlXFeWN3lrB7H1To0DrZDPh7NibWhPghTrClJzyeOPukvS1M8tbNCOsD6+3uj/kBz7v4f55qdu8X5WmbwxZZTDM+wQ3Clxp9AccJ6O1R6qxas0PCvLLGoNIrEuxTj+5CTuVHV2rJ+M8V53uDUn1jzspJ8x5RcOR2TzxTl/jdOuJF9gssyJLamBtaSr8EHPeOqvWwCGHXRGxaPAoFFUyQv6v6u2g7Pg77pW6qt0ixXFyJIQQvO5Of+T1VbdeHzye6YXjfLYuWrlrhn8Wm0oc56UOxS13EE8jjrI7pnQl0sDJJBZxGUvq6pweWbgijCMIOagUFJzitqMipE/IqScppqwWgLStS8YIGKKaeuqrO+XUJSvPaVDINcGU9d1jCa7aLKpjB25TURqTRMzThiO2Kd/kSSpMkujaFH6+KyvWcWzxpjGi4j0BiWwll8uq3LJHZSfalWVY4SSB781EpJB/YoAffdCFNEcOBI4HZyQZGSOBGldfXeR57iilRUtRyok5JNCyjjI7rvLWORzUPKwqtenZY3UZOSv/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAABgcDBAUAAQII/8QALhAAAQMDAwMEAQIHAAAAAAAAAQIDBAAFEQYSIRMxQQciUWEUM4EVFiMyUnGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAiEQACAgEEAgMBAAAAAAAAAAABAgADMQQREkETMiEisSP/2gAMAwEAAhEDEQA/APm25z3rpL67+AoDjiqzSFKPJANcSkZJ7mrTKAsJJGCKcCITOmmFhQKeVVcZiLfmMxo/Lrxxip4aFbT7OaLfT20CVdV3AJzsGGwf8h3oWMK0LnqCsGxwggdNguQ56okg4KRn96pvx17uexpl+pNhS0WZ2MLScuf6oHlJKkApT3/5Qpfy1h+41y+KwrMF1sp4yM1JCkuwZTclrBWnxip3WwglRGTiqakg8ng0xEUGe0DJOBV+M3uAqqwCScCti3NnjcKZRFc7S+GFKYQ22MOunageSabK4EfS+hwpCds9KOoj7UaEvTm2G7agMlSN8WEAsfGaJNXXBy8XpqK2n+iwckCptR/a1aBjJnfTnxVNec4Em0mlOqNMyWrmkm4OAgA+B44pXvwnIciTEf8A1kKIAI8Z4o/slzNr1AhbJAZdw2r6xVf1Ut3Qmx7wy3hh/wBi1DsMea1W1F7VD1b5E1pN9C27fYfBipltbCr5rNcGMEiiG4oCgVIGQeaw3woAZFUsJwQ7zjCykk5G7xWxEcWWdqcF1XCR91hNHBVgZGODRPoaKq4XtJ2ksR8LUaUuEBY4EJQueIzGdp8/yvpsrQpKHSnevPnNZemnT/FHHpBKlPnKf3rK1vdlIkNxisKbRyrHxRv6e6clO2UXWQlJDmUtAjtio62CUvdZlpVYvO5KUwsDbi2VynW2SUrSoqBPzmikShqXTSoz5BIT00J+FDzVWdbPyI81TX67ZJGPnNCWlrqti7qZCtqVHaAfCvJpQfJpwyeyGPsa9Qyv6vB6alyOHGHcB1tRGPqsSQtSuVEb80Yeo8RUWe1MQD0Xvao/dBLpykceeT9VatgsUMJGazWxUyJshRCSrCPNMfTeq7FYYKYsKI44rG5xZVkkml7NhvwnujKRheMiom1BJThOBnkfNJZWtg4tidUsNZ3XMJ9SXFi7XB6TCSUIWkDCjmm3pN6PcvStq7fnKalWhxTi2gsgKSOBkUhW3QFYCFAHtWrYr2/aGZrLayuNLRsW1Qtr5IFXraap+Llm7jPg3GHIs121GXFoS410207uN478Us7ZNajz2ZkrJbS6XMA4PNQSbst2zt25s9OOhwubR5z4rOU6TgKGAPnzQqr4Bge/ya5+ZUjr9jHu2tLHdYKoc2G4GHBtCs/2/dLOT023VpjqJYz7QeTivLq0qUfb7cdq7jMOSHkssIJdUe1GupahsuJnsawgtP/Z" alt="" />
                             <div class="about">
-                                <div class="name">Vampire Survivors</div>
+                                <div class="name">Assassin's Creed Odyssey</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Casual, Indie, RPG
+                                        Action, Adventure, RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1028,7 +1028,7 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        74 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1036,7 +1036,7 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 14 Nov 2023
+                                        Last played on 16 Nov 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1045,77 +1045,22 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            184 / 196 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EACoQAAEDAgQFBAMBAAAAAAAAAAECAwQGEQAFEiETIjFRYQdBUqF0wtMU/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgQDBv/EACURAAECBQMEAwAAAAAAAAAAAAEEEQACEiExA0FRFGGBwRNxof/aAAwDAQACEQMRAD8AmX36Zz6hMgzXO8hQXQlTTMdlXB4mgBKuZNtRUEggHzv3HTHos9KEmEfmn+mEKXif7PTqj2gL88k/asWzsSROlNMRoyYuRsBCVhVlG/VVj7Hc9LA2BNz16HXI0iHlBcZMRrlxS0mlxv8Ansxzkx6MHWhJgH5p/phqNIpnIaFz/NMlyFtLhQlt+O8rjaNd0p5lX0kaiSB437VsyMlvL248neOoLLLSUaeI6oblavkLpsD474iqqiGF6d1g0RbnjH7Thp5qpiRKA3EaJlPzmawa7ejjzvY84X9Lmw5RdJBXQCUftWKKXwcry50QVF1VlKJX0bUdOk+wJ2uLXI0nEzGepql6IpuJMqQNy0hS0OIRrLZVzK5U3tYKAufO3bJPqSk5pJdrPTf4wVD9cVKdKqUSuxFiD5gK0vUCl2Ddnw28Ox4ZziXIzbMHtC1vDSw2kgW+CSeUjSLAA9vbfGL1SQE0XVukWBEU/acGQahpKGoFutCbeyoKj+uNsl2mqooeo4kKpEuS1aVrcWgtlwpupNkqte+kgkeNu5S6JlEwdyWAA+4CNF00xLjDWtz3JJc7ntgR/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Boo Roo Boolle</div>
-                                                <div class="unlocked">14 Nov 2023</div>
-                                            </div>
-                                            <div class="description">Evolve the Mille Bolle Blu.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EACwQAAEDAwIEBQQDAAAAAAAAAAECAwQFBhEAEiEiMWEHExRRoRWEwtNBUnL/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgMF/8QAJBEAAQIEBwADAAAAAAAAAAAAAQACBBESMQMFFCEiQWFxobH/2gAMAwEAAhEDEQA/AMy+/bNesSgVWt0FBdCVNMx2VeT5mwBKuZONxUEggHvx946Y9lnpYkw/en9mqFrxDM8OrPaAzzyT8q0O1SbUfqs5LUqUG0PL6OKASNx767kZjadzQGAzHaXO6+EpmPZietiTB96f2asxpFs0Gxa/VKLQUJcKEtvx3leds35SnmUDtI3EkDtx9huC7UG59PU5UHXEOPoBQHlHA3AEEfxpcuqJ6Lw8vBrGOeMflOqgYg4zjwAkJ7Ia6f30q/hc2HLLtIK6ASj8q1h6aRWKo5BuNRYhtpWYivSbmwrcQEq4cBjjkdc62kZ62rXsi24ky5A3LSFLQ4hG8tlXMrlTnGAoDJ78Pbkn3JaU0ku3ntz/AFgqH462zGC1AaKqXNBG49uFJbyDiAbfiP5Dz0Ryl0eLBblMxZhdMpMZeBuwkpyRzAdQTxB0oeKSAmy7s2jgUxT8p1Mg3DaUNQLd6FX+oKj+Ou2S7bVz2PccSFciXJatqluLQWy4U5UnCVYznaQSO3D3MtgTDh4qqLpDYe3SBymJC/fi/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Gav'Et-Oni</div>
-                                                <div class="unlocked">14 Nov 2023</div>
-                                            </div>
-                                            <div class="description">Defeat a total of 6000 Kappa.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYE/8QAKxAAAQMDAgQFBQEAAAAAAAAAAQIDBAUGEQASEyEiQQcxUWGhFFKEwtNC/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwX/xAAhEQACAQMEAwEAAAAAAAAAAAABAhEAAwQSIVGhMWFxgf/aAAwDAQACEQMRAD8AmX37Zr1iUCq1ugoLoSppmOyrg8TYAlXUnG4qCQQD78/UZLFlnysWWfzT/TSNsRfrPDm0G8f7kq+VaDkrqFTk/T0JuQ4qQN8VtkoAdYHJa1E80HJ5ElPbvrfyri2CsqCT63p922EQAK2Fiy0+diSx+af6aajSLZoNi1+qUWgtpcKEtvx3lcbZvylPUrO0jcSQPbn6Sqk1ajyVM1Vp+OllSHltPOocCYylbSonmonO4jCjjHljVFdUT6Pw7vBrtvjH5TpsO8LrGFgrUIKmDBBBpfwtbDll2kFDIAlH5VoOrU+PbNVdclxn26eVvLRNgyCwoBzBQyrB6UJI7cj09+WmIz1tWvZFtxJlyBuWkKWhxCN5bKupXSnOMBQGT78vTHPuO0pxJevPGftgqH66vz8QX0VCdLL9HPVBGa2+oQRA8xRlApMiuTIZktuLYbf4qp8l8vKfYBB4OCrJTncPIJIUTz70nikgIsu7dowCIp+U6Mg3BaMJQLV5k4+6Co/rrbJdtq6LHuOJCuRLktW1a3FoLZcKcqThKsZztIJHty9TgYosoygyzfvHVBmZ31GAADX/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>108 Bocce</div>
-                                                <div class="unlocked">14 Nov 2023</div>
-                                            </div>
-                                            <div class="description">Survive 15 minutes with McCoy-Oni.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUE/8QALxAAAQMDAwIDBgcAAAAAAAAAAQIDBQQGEQASISIxQWHSBxNScaGxFBUjMoSTov/EABcBAAMBAAAAAAAAAAAAAAAAAAACBQP/xAAfEQEAAQUBAAMBAAAAAAAAAAABAwACETFBBBIhUWH/2gAMAwEAAhEDEQA/ADKzAXDaMJIy8K2VhG1plB92CEgBXUnG4naDg+fOsKYm0FfttFw/yFevVWyqH8fY1stAZwhavvqo1J2uwotqkFqcScHbTOKHnggEH5jwI1PhjLrVV29qZ54mQcZ+l1RcxVop72iv+9Xr1TpnIG3rUmpGKhm09H6zKsOcEEJ6jnaRk9vLSejpo6ZjamQjQ67H06y29UlopQ2sAEgg4IwCCTjGPHRu+KD8vse5WsY3NoV9tE8RbaOXnaX0Q/AwrvtIPYs0l21YHd2TTLP1OrFTbNr0NXU1NTF0dZUPqKlrqWEKJUTknt3JOdGY2thrKtuDYfnUtuJSUZWO/ieBnAGRz89Z5S8LakSS5dFKjPwtq9OkgmLbX+1l55i0d4XlN4SLttNcKiji6RhwAAJaRtbyDkK2Dp3ZA6sZ476P+2pCUWrOlI4VTIP+hqJGXZbMeoKbummXj4m1enWuRrIe9LZnGKedQ64oBGUDt4jg4yOD9NE8xdaUTzCG8H7X/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Flash Arrow</div>
-                                                <div class="unlocked">13 Nov 2023</div>
-                                            </div>
-                                            <div class="description">Survive 15 minutes with Keitha Muort.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYE/8QALhAAAQMDAgMGBgMAAAAAAAAAAQIDBQQGEQAhEiIxE0FhobHSByMyUnGBcoST/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMBBAX/xAAmEQABAwQBAQkAAAAAAAAAAAABAgMRAAQSIRNxBSIxQVFhgZHB/9oADAMBAAIRAxEAPwCZWYC4bRhJGXhWysI4WmUHswQkAK5k44ieEHB8d9YUxNoK+m0XD/YV79K2VQmvsa2WgM4Qs+unYeog6SuKX5OiRUU7g42ql5CBkHmT6jfP4I1mpQviU4gFUToGOlULO2L4JyIAO9+G6jjFWinraK/91e/SdM5A29ak1IxUM2nk+cyrDmxBCeY54SMnp4avq6hj7g7avik0aqYK7NSqRXG2lf2lQ24txtt3bahb4oDH2PcrRGMtoV6aCFKZStYKSYkEzH1qlXTKW9BRO/envgs0l21YHjGQmmWfM6crkRsXUONqgGH0p2S4inZSjp3ZOfD9fvUtG1sNZVtwbD86ltxKSjKx17zsM4AyN/zrPKXhbUiSXLopUZ+1tXt1LDjY7ygTsnzjfQifmhtLriCoEg1a2XPKXTChbp6ZmkqsvPIomw0gLwPrA6kgAdc9OXQPxqQlFqzvCMBVMg+Y0JGXZbMerLd00y/5Nn261yNZD3pbM4xTzqHXFAIygdO8bHGRsfLT766bdMoTiKZ2jdtvrzQjEa9f2v/Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Millionaire</div>
-                                                <div class="unlocked">13 Nov 2023</div>
-                                            </div>
-                                            <div class="description">Evolve the Flash Arrow.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+179 others...</div>
+                                            0 / 93 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABwEEBggAAgUD/8QAMRAAAQMDAgQEBQMFAAAAAAAAAQIDBAAFEQYxEiFBUQcTMoEUFiJhkSRCcRUjM1Lx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAIhEAAwACAQQCAwAAAAAAAAAAAAECAxESBAUhMRMUIjJB/9oADAMBAAIRAxEAPwCs14uj1zkeY8MYHIAUxCuZz13o5aCg2qbpeG1BXDcurj6kllxAKiOlTq2aVbnBxKJVoS82MKaMcZR/NQ2ktsCqZUTnpWceAAOnSrXydIKZxldrcHZMcZrmrsjpkLbZjW97gALq0sDDae5pFmhvSZHJFY1KJGNh2pOM4PPpjajlrZjSresdMtpkxFM+fiapsYSlOOvvUpukdgMvTLKzbZ9rjjiW62wP7ae5p3SS2yX4KypVgYG9ObbOXBktutbpOTkUfkPeaptMaHb1rc9ADAyqvK/w4MWz3FvUHwEWZ5QUyyloJVn2qvHmjL+j2LNzXpgBbkPxnQ5HecacTzCkKKcfij7prVDt10/G1LFUkXK2/TdUJ2MdPJJx3J61X1fIYznFS/wu1E1YNTNJuGTaJmGprf8Auj/tWNbWmM0WSfubUmIzKYOW30hYT15jNcBguTY+obSy4RNvEYR4xScFKgc1w4637FdZVlmLzgfGR1dA0vmgfimcma9DltyIq+GS0rjQvsa4tZfr5vyMTvhemAyey7GnPx5ClF1lxTaiT1BwaJvhR58PSerLjKdcEX4QJZbKjwvLCuYA71r40WBt6VB1FZ2v0FwCWeFIyS+B9Z9zUkuNlWPlnQFtOZDakz1uD9/mJyUnviuy7SnkjW342ekK5jSmgl6hlAGVNBatyFD/ABujcnuMUDp0+XcJa35sh111xRUStRO9Trxpv7Ny1C3brarFugNpb8sbB0DCz+aHvEMjA2pcWNY5UoIlStGi96Q0q96Q1YMGm0z16q0CiWhfFe7AS9JUd3GNkJrdl1MuOl1OykhWOxoe+HGo/lrU8aTIJXAcIRKb6OI7H3oj3GB/QtROwOLiiyEiYyvphzmE+1crunTuo+Ve0Y+rx7nmvZJdHXu02mK/80Nh6BFBdjNn9rh3NcS1zVWfTd+1fcVfq5XG3aXDuCDyH4puqAq44httF1T54Qjqr+K4HjbdmW5EHTVrcC7bAbS7gdHSMKHtR27JWWFL9SHS27nT/gL5Dy5El1905ccWVqPck5NaJ9VJ1pU+quqbBVgcVIemdqd3GC/CkeXJbKSRTTBG4NAC45fajFpecdV+Hq4yiVXiwEykE+p9B5BH3xQewTsOVdbTF+n6bu7FytigHmjnhUMoX9iOoqHKpaZDW1oN2l7g1Bs0/UzpCXLcz5jCVbLd2KcdxQCuMpydPkzHc8b7inDz7nNSzWviLfNXW9iHcUxGY7ThcCIrIaBJ3zjeoXgn7gVVgwTgjhImLGsc8UJ15VifUKzB6A17w4rsqQhphBUsmriw/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMBAAMAAAAAAAAAAAAABQYDBAcBAAII/8QALRAAAQMDAgQFBAMBAAAAAAAAAQIDBAAFEQYhEhMxQQciI1FhFBVxgTJCUmL/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQBBQD/xAAkEQACAgEDBAIDAAAAAAAAAAABAgADEQQSMRMhQVEyYYGRwf/aAAwDAQACEQMRAD8A+crjMeur4cfACh0FQIjqcV7EVyMkl0HO/tRyGwHNyMGmKMmCTiUmYS+tXI9rcccShIypVFWI+MfNNOj7YH5ZfWPK3vXrWFVZc+BBQF2A9xDlWd1h8tuAggZqi9AWOL8VrOubUnhaltDAUeHakiRH81BprOvWH8nmFYDW5WJrzC0ZI61JEkO26WmQgArx0opNY4EqPeg0wHmg53x0omEwGWYKcu0ww04FAYAPNphibDejSYwhJgBWB/btWgpZFm0lzFDD74wKT9J29VyvcaMkZSpW5ps8R5iROat7H8GEgHHvU2pPUsWnxyfxDrG1S/6l7T4F/wBKS4q8GS0kqTnrWcS0KakOIWPOny016BuptmoW0On0H/KqqWv4H0F/fKR6To4wfzQUkVXtX4PcTXy6BvIiJOIKFZFL08DmimCZuhVAJ4PNG1VtFrJIKyk8VaBpXS02/wAPm29QKgdwRms6iK9b59q2nwYusSAy8HZAQ475UpJ71LqbXqqLpyI2tQ7ANHbRGkDpmO7LmLSuYpPXsmgybZb3bo8uclx11xRIIVTJqy4u/bEqZkoaG/EtW4xWVo1A+/ODakKkOoPlU1sDXJ0zXX7rc95VYqJhMdo13iz2xuShMVl1qQjCgSqptR25N9tbQ4wl9oYCj3oL9xZEklSlKlJTlSirIT8VBpK7vy5Mxt5YWlJJSodBvW2G3b1Afj/ZqBCdvuKt601Lt8B2S+oBKc4260hTlHmDhrWvES4MPWosc8c1G5SD1rIJCsqHFse1dPSXPdXvs5zJrq1RsLOMqw5nO/xRy0yAhXClwtr7HNB5cZ+A8EyWyhfbNRB9fHxFJyPaqOe0XxNbtWsH48X6W6oDrZGEqI2xQy7XlasiItjln/CMKH7pJiXl9nAUkLR/0M0wW7U9vZHqQlLX8YqQ0LUxZUzn1xHbywwTiTW95a1OpefDSXBhRX1NEheWmGjEsDRO3qOHehVy1RbJRSfoVhae6SAKAztQPPBSGG0tM46JGCf3RbTd8lx9Qc7ODmW72+1yyhay5JJyd6WnTxK6YUPevFvKJ7nO/Ea92WHpkhtpocTh6Ad6pHYYi+Z//9k=" alt="" />
                             <div class="about">
-                                <div class="name">Grand Theft Auto V</div>
+                                <div class="name">Assassin's Creed Origins</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure
+                                        Action, Adventure, RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1123,7 +1068,7 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        1.62k hours played
+                                        19 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1131,7 +1076,7 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 14 Nov 2023
+                                        Last played on 16 Nov 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1140,62 +1085,62 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            26 / 77 achievements unlocked
+                                            8 / 67 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUAAgYD/8QALBAAAgIABAUCBQUAAAAAAAAAAQIDBAAFBhESITFBURMUBxUWImEyU2Oh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAABBf/EABkRAQADAQEAAAAAAAAAAAAAAAEAAhEhEv/aAAwDAQACEQMRAD8A1GjdN0s4y+WzdM5k9RlUJIVAAPX84fNojJo0LyGyqqCSTOQAO5OKfDXf5G2/78nf84e5/BNmGTZhTpuq2ZYzCDISg+7bvt3BPPGerslK1a7kztXS2nrdiSKtJZkdYo5iRM2wV9yp3/IG+FmsNMU8pyxbdJpg6yqpDyFt9z28bYLyAT3b8N2SlNWoiy9rjVgyFUQQwxrw822+49B5wb8SmPyRE/mTlv154C7IlfK5BdDQzz6ZsJVs+2nZ5lSQKG2Y9G5+OuOK0PaVPcT5D7mzttHmIvCb7zyVwJSpB4iCB5wv0nqStk9F4LMUxf1GZSiFup74d2tZZLbijW1DZk4HWUKYT+tTup69j5wR2Stq51gz5UTXrRxabkrWI40rpbmvCBgQOEEmMk9sTW8NqvpqnHdse6nVolkl4AvEw6nyd8H/AF5lfERwXNj39H/cIdXamqZxl6Vqkc3H6ivu6Feh/vAHYs1zjP/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwL/xAAtEAACAQMCBAUDBQEAAAAAAAABAgMEBREAIQYSMUETIjJxgRQVgiRSYZGS4f/EABYBAQEBAAAAAAAAAAAAAAAAAAEDAP/EACIRAAIBAwMFAQAAAAAAAAAAAAECEQADIRIxUUFxgeHwof/aAAwDAQACEQMRAD8Awqw2ee81DxwPFEkaGWSSZuVUUYGc98kgADcn+9VVntVlil5YI6q+VSbkRxsIh8Dc/J+NCWyCSHhqjog5SsvMyrkjdIM4X4OWb5GnfDVjvPFddFDZ6S5wcLRVIpmlo1XC77uxLLzN3Zt+XPToDF7moFnaFHj3vMAUaYgAZriustrrJShgqLRVtvyeGfDP4ncD2PxqXv8AaJrPPFHO8UiSJ4kckTZVhkj3BBBBB/7rSq2hu3A1VVfeqG6Vtop63wqOskKeE/7HGcshPvg7jUpeIfuPDkkYX9TbnZwvUhBs4+AFP4HWtXSsMjSned/3iZoZAcEZpTBVNJZaKpbL1VqlVWAbcx5JXf8A0M/wNU9q4zrqK8W1aOKipLX4qrG6h+RYwfKnXYgFgAc5Z2c5JBEjwzUQoK5nkWQvA8jIsLSdCCQwGCMermHpx3yRoiJaV6b6ulnntsUr8ivLtFId+h6dtwRt3OpXLamUcY6efc9DVgThlPwqk4l46r5r/copI6Gro/EaMc4coV6Mjb4JKqFYDYlVYeZQ2kNPPJS2Csq6eMxmpcpHHzk8sZOWHN38pC5PXnOltTUW6lcmoqHuM+fRCQI89PV07dgffRl7u9PUcJUVP9HJTVckjuwHoeLogU5yfNzkk98YwBjSttVVUtrjEnmPuK0kksx5r//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>A Friendship Resurrected</div>
-                                                <div class="unlocked">14 Jul 2019</div>
+                                                <div>Free as a Bird</div>
+                                                <div class="unlocked">29 Aug 2022</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAQP/xAApEAACAQMEAQQCAgMAAAAAAAABAgMEBREABhIhMRMiQVEHMhahM0KT/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACERIh/9oADAMBAAIRAxEAPwCo2btuiu9vlqa4zF/UZV4SFQAD/edUA2LaBjIqf+50s2fdILRtOWsq+XBah0VV8uxPtUZ6GT8nrRUm57iJCjJaQ6+6QCSQ8F67zjDefA76P1rPV2TUphsVXKj2lb6yop6hrjygIWV05siMewpI+dLrvRWc2uWrs7ViTU0yRzRVPJWXl46PjwdNHrlqbiKt7bYJayX9XcyZkTxyJIwvQ/2Gex96535rVJtFZrJTR00UtSvqoo75qcEH7I+x19aC7IQ9jb8eQw1G3ZYqmJJI3lkVlYZDDPjGi7nTXG0QmWgEtdSRIyiIsWmiQjBUE/unyAfcCBjI61MbT3JTWeheCpinL82ZSiFvJ+dUI35a+PuSq5Y7HonRHZdbV5ybZ6O53enEtf6tBRvGiGIMVmljUYCkj/GnknHuYn4GNDfkOCKmsFPDTQJHEkqKqoMBRnwBoj+eWvljhV9/Po6Q7u3NSXi3pTUkc/L1FfLoVxg/3oDsWa84M//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAtEAACAQMDAwMDAwUAAAAAAAABAgMEBREGEiEAEzEiQXEyUYEHI4IkUmKR0f/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAJxEAAQMCBQIHAAAAAAAAAAAAAQACEQMxBBIhQVEiYRMykaHB0fD/2gAMAwEAAhEDEQA/AIVYbRPeKh44HihSNDLJJM21UUYGc++SQAByT/vpstdostJOkZSoutWVMgDqYoSACSQPLDA+/wCOsVsgMGloaR5lgqrsWYNIDxCqsVXj+4hiPleqRofQq6qraS76h7iWSnpYqelpwxV6vavqckcrHuJxjlscYHJ5q2JDQX1HQ3tv83ncaBFtMkgNGqS6q2WW4ANHutk0g3YQ7oiT/iT6fgH8dLd/tE1nqI4qh4pEkTuJJE2QwyR8ggggg/8AD1bf1LprRYo7fZrPYqG20lewEl1dM7Spz2gxyykgZyfI4Hv1L7mq3fS52FXnoT3V2nOUwA4+MBT/AAPWw+IloqMJyzY69p9dpSvpwS03QuKqefT8TMzd6h/p5grcvA3KjP24I/iB0To9X3qSyDT9NLMKKX9qFUVhJsJ5iVwCdvOMYyAcZx0F0zPCgrmeRZC8DyMiwtJ4IJDAYIx9W4fTj3yR12MVJVUkVTFLPQQ9wiFpyREWJ8q3gHgE8cY5PHRLWAltRukyDx+PsqdXmYU56e1YYIZ9Kaxj7lDuanjNQW3QhWwEckA44yr+Rx7eAl3U2eK7CkqZKsdwU0cr8MY1ChgSODhcJnwcnpdqp7bTTSSVM73KpdyzCJvQWJycufP4B+etl7u9PUaSoqcUclNVySO7KPoeLwgXnJ9W8kn3xjAGOpeCM80wYdfjmRv9pw6W9dxblf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Diamond Hard</div>
-                                                <div class="unlocked">18 Apr 2019</div>
+                                                <div>Handy Man</div>
+                                                <div class="unlocked">11 May 2022</div>
+                                            </div>
+                                            <div class="description">Craft 20 items.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMEBREAEiEGQRMxMlEUInGBggcVQlKR4f/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAAC/8QAIhEAAgICAQMFAAAAAAAAAAAAAQIAEQMhQQQxURKRodHh/9oADAMBAAIRAxEAPwCFWGzz3moeOneKJI0MskkzbVRRgZz3ySAAOSf9022Kz2YVkVNSx1F9uLkCOJFKo59lUct78nyBJHsMp99v6Qgh5+MurjAIwRCDhR+RLH7rp7/SyStoLxXXalttMKuOnp7VSuqsaaN5PleaUg5KqIyGx/I7SR56nzZW9DOTodhdXxvnv4mVBYFbg3qTpGCjqlgudDUWGslXeo4eFx7jBI48jhuPb3S7/aJrPURxVDxSJIniJJE2QwyR9QQQQQf+6rPXVxqZLRJTV13e9SPMlwopHgCmFWbwJIjj5Rlm3Ko8tnfSLd4v3PpuRNuam3OXC9wg4cfYBT+B0OmzOEDk6uj9i9+8GRAWK1M1hqpJqOgmUM9wtriNAuGJHqj4Od2MMMdyFGR3NUnWUcsES3J1pZXV1kmiRlgqVZ92CVBKsDz6SMnOFPOlLpepii+NcyhmaFpSqQs5GCDyFwwx6tw9O3vkjW2SaKujjrnqJ6aJpNqmpJEMx3ZIyOOed2eRnk550rJhUsQ41wfEoViFtTuUO3VcNRQyLDSR3GnkVo1eor/il3MMAEnLY9xtU40j10D2GjucdNIsjGXwFK5ACcFxzzwCE5/sdB566hovFRqqSrLtkw0rbYiQcjLdwO3DfXXe+XiCp6To4DSS09ZLK7uOdkkecJg5yTu3kk+ZxjAGl4undGoG1J/eTfxU6Z1YWRsT/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>I'm a Legend</div>
+                                                <div class="unlocked">11 May 2022</div>
+                                            </div>
+                                            <div class="description">Be equipped with only Legendary equipment.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgYDBAUH/8QALxAAAQMCBAQFAgcAAAAAAAAAAQIDBAURABIhMQZBcYETIiMyUWGRBxQVQlJi0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EACIRAAIBAwQCAwAAAAAAAAAAAAECEQADMRIhQVFxoQRhsf/aAAwDAQACEQMRAD8A4VQaO/WZC22FtNIbQXXHHlZUoSLC9+dyQABqT98M1Ph8PQFArW5VX0/IyM36DU9z2xFSUIh8OwY0lSkuVd9AXrlUmPmyp+5Kj3GAgs0OqERIomUqrKVlaL8gPxXSNwo5Ats6b2UL6G24Go3JLE6R1+nnPVAjTAGa1ZFMotSBUyF0x5WpyDM1foTp2PbC3X6Q9R5DTUhbTiHEeIhxo3ChcjqCCCCD/hx2D8JqXwz+jy1cVsxHJYQ446ZJc9FKFAFCQBlJG5KSTdQA54TeN4USSzVYlNLi2qVKWqOXAc5Y0uDfX25TryQSd8Rt/JC3SiTpGZx1sc59UjalZMSaWEumXQIrjhUZFMcSheU+bw73SQT8WUPjQYgnONvuvClWbbev4iCcri7m5Gu6f6g9RsAXDMhlAnKW4lwrYW4pCWVObEEhQFiLe7MPbbncjBri0+XEElBXBZcXkQt8ek4ddldtQduZxRWFtiGmOOt/rzSZSwkVel8TVWBLbXT5z8eQ/Djql+YqK3ggjOc17LylOu+IoTz8PhyTJSVKekHwwSo3KNM5J+osNf5nGa65S4J9V5VQeBtlZPkJ+qzv2B64vVyrx5HCUKP+TcjS3HFrUP2La2QAb3Pmzkk87WsBbBYAgIi7EiTiY91qgyWY+BX/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The Arrow Whisperer</div>
+                                                <div class="unlocked">23 Sept 2021</div>
+                                            </div>
+                                            <div class="description">Kill an enemy with the predator bow from more than 60 meters while controlling the arrow.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QALxAAAgEDAgMFBwUAAAAAAAAAAQIDBAURACEGEkETIjEygQcUI1FxgpEVYXLR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAKBEAAQMCAwcFAAAAAAAAAAAAAQACEQMxEiEiBCMyQUKBoVGRweHw/9oADAMBAAIRAxEAPwDCrDaJ7xUOkMkUKRoZZJJiQqKCBnw3ySAAN8/nTpw3w7bZ2qv06nqL/UUcJqZuXuRIgIBIXOX3Phkk/L5UaObZwbHExIqbkQ7ZGCsAzyj17x9V1ofsTrbJBa5WraeOaqgrGlq17Mu5gKKIWCgEuqyAkrvgkHHUZ9oqvFN1TOAYAHzzvldDGjGG80rT2yy3Hm7MSWyfOCFHNEG+RU7r+fTS5f7TLaJ4453ikSRO0SSI5DDJHXcEEEEH/dat7Y7jDd+J6GotdCyKaX41ZIUiSfLZQksRggZ82DgjbGNI11Rbrw0wTDT0BMq43zHsHH0wFb7CdOhWOBtUEwbgmY73v4UXs1Fpv6qmlc1/DcLSHNTbyIn3yTGclD6d4eg0Zbbq9l4WHZU8PvlTVSNBO6HnjUIoMinbqcDO25OgeGZ4UFczyLIXgeRkWFpNgQSGAwRjzcw8vL1yRqb01BV0oq4zJQxSPyRvOMROd/BunhuOnU6DA3bxpmfr38KyDxtvCMkust94VloapmkrbeVqonbvNKgysm+M5AZSdznlzrnRSzUXDc9RHky1B7Nd8fD25zn9xhfvYar+3tttcMJnrahTsKduVAf5/wBA/XRl7u9PUcJUVOKOSmq5JHZgPI8XggXfJ73OST1xjAGNBHRTGkmf3dNo6nnMBf/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The Festival</div>
+                                                <div class="unlocked">8 Sept 2021</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYBBP/EADEQAAEDAgUCAwUJAAAAAAAAAAECAxEEBQAGEiExE0EHFFEWImGBkRUkMkJDUnGxwf/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8ArMoZepLxRP1NeqoU51VISG3VIAAJkmDuTthBGXctKuxtgq3zcEo6hYFUuQP6mN45jfjHR4bybM7O33h3eZ/N6YnfEfLIt9ScwWyqFKpTwW9K9Kg6dwtvuSTykfzxMc9XZOZXrNlR7EWiTHnPnUr2wHm7LdJaLcisoF1CVpeQhQcdUuQojiTsRv8AXG5HzXc77fA2+plLIb0rbVCdUCdSI/U/cn8JG4iN1fEhR+xmkzE1DZ5597AXZry16JnhwUiyPKc0pioelRPaZM/AYGrKOsz9cXdbRo7VSmGHz7/UCoOtPYqIgyJTpIB3g447LdqCltNVbbtRuvtOrUVIDalJUCqYVEcQNu/1GKdOebYG0gtVYIEaRTmB6AegwR2SImMm835FfofLXDLAfK6cJSWW1S6kjhxB5Jncj4zxsFM5GuVlW2quzTIuBca65bOwVPb/AGNpmNsIe3Vs1R0q2D38ucB5rzHTXmjbpqRl/X1kLlxspiCOPUnj5YVEYSpvM//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Orbital Obliteration</div>
-                                                <div class="unlocked">7 Mar 2019</div>
-                                            </div>
-                                            <div class="description">GTA Online: You killed another player with the Orbital Cannon.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQcGBP/EACoQAAEDAwMDBAEFAAAAAAAAAAECAwQFBhEAEiETIjEUMkFRoSRxgZHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwX/xAAYEQEBAQEBAAAAAAAAAAAAAAABEQACEv/aAAwDAQACEQMRAD8A1dn27DrEF6TOVIU51VIT03SgAAnJP2Txp4WPScA/rMD6kKxou13ZDFj1V6KsNyGvULbWT4I5BxoOXcMZ6tUt52ppcPTHqFNyHPSoPzuS4le4+fakfHOs9W6B5OSm00u2rahtuuSZbrSGxuWTMUdn740ddttw6TTUTIC3wpLqEkOOleQojBHPGP8AdcNMuG3Yc6qrZjMMMkErdLzqRLP0llKQOefIH505fEn1NqQHQjpJeVHdDec4BwcfxnQLc3yjNzWzg2JWCR3bJYBHk9p+NS6lOGNUIL+Vo6TzayoJOQAoEn+tUS1bij0aG6xJZfLgcUtJbbKvJPn6I1oBfdN29zczdjkdBWhG6uc9BWTRaaA4/JWgLKVuLUO08gkkfjVWuziy6N2D2Re4+fanSZvum7sbJuD8+nOgrsuOLWYTcaIy/v6qF5cbKcYI8fZOgG5+eeRjv//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>First Time Director</div>
-                                                <div class="unlocked">18 Feb 2019</div>
-                                            </div>
-                                            <div class="description">Enter Director Mode for the first time as an unlocked actor.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EACwQAAEDAwMCBQMFAAAAAAAAAAECAwQFBhEAEiEiMQcTUXGBFEFhFTIzUsH/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQIDBf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEQL/2gAMAwEAAhEDEQA/AKuz7dh1iC9KnKkKc81SE7HSgAAnJPqTxp02TR0qSlapSVkcJMpQJ+O+pZmdUqfYD79KWGnTNU2t7PU2hSsbhngckDd9gc/nUpTmEfrDjglyZEyM+l0T4/W0lKTuWtS1DceAcHjPsdc9XbI65AMurGx6Rk4+s+ZKtB3dbUSkU1MyCt9K0vIQQ46V53EdueCP90KPECvxpDMl9MF+LKSXm2EJHSjcekqTylScYO7Prp6560xXbOizYoWhtyQgFDndKkq6h+cH7jQXay8I5bvD9lmTbshmU0h1t155taFchaSeQRrI/Y89hlyHSqsU0paHh9K4CklS0EAqUOF4O0Aq7AfOj7WuKPRobrEpl8ueYpaShsq7k9/QjVAL6pmzqbl7scjyFaI7OXhAaEp1BnzJbKqDBqtJn/xynHDsYa4wspXwsg/1598aq7yp7NJtSnwIiMtMOtoCz+5R3ZJ9yST86RN90zdjZOx6+QeNBXZccWsQW40Rl/f5qF5W2U4wR29Se3xoDtGcA43/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Method Actor</div>
-                                                <div class="unlocked">18 Feb 2019</div>
-                                            </div>
-                                            <div class="description">Enter Director Mode using any of your own GTA Online characters.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+21 others...</div>
+                                            <div class="description ellipsis">+3 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1206,7 +1151,7 @@ https://www.patreon.com/posts/animated-dwarven-70893549</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2023, 06:02:03 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2023, 06:02:09 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
