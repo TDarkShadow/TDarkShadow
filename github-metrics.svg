@@ -30,8 +30,8 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -459,7 +459,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>raffitz/zdr16</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Chozo ZDR self-flipping monospaced pixellated font based on IBM fonts of yesteryear</div>
@@ -512,7 +512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>raffitz/mawkin-sans</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A self-flipping font</div>
@@ -565,7 +565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KelvinTegelaar/RunAsUser</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a PowerShell module that allows you to impersonate the currently logged on user, while running PowerShell.exe as system.</div>
@@ -592,7 +592,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        72
+                                        73
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -809,7 +809,7 @@ Add notice about ignoring Root Builder cached data</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            1731 games
+                            1732 games
                         </div>
                     </section>
                     <section>
@@ -823,7 +823,7 @@ Add notice about ignoring Root Builder cached data</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            8.27k hours played
+                            8.28k hours played
                         </div>
                     </section>
                 </div>
@@ -1131,101 +1131,6 @@ Add notice about ignoring Root Builder cached data</div>
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAABQcIBgQACf/EADAQAAIBAwIEBgEEAQUAAAAAAAECAwAEBQYRBxIhMQgTQVFhcSIUIzKBkRUzQ2Kh/8QAGgEAAwEBAQEAAAAAAAAAAAAAAAECAwYEBf/EACIRAAIBBAIBBQAAAAAAAAAAAAABEQIDBCESEyIUIzEyQv/aAAwDAQACEQMRAD8Alg7t6du9dVpZy3kqJChkLHbZa9jrSS8uUiiUszHYgU78LpSTR09uuZsmhjuUVoZJB0JI3qLl1WaG42bWbTv1qlsyWneHUsxV7smLcb9a21noq0hASRmcD2NHr/J22MiDTuG3G4C1m7nWDcxNtFsvua57szMu5FChHTenwcShO45Z03GjbJ1KxF039zWPz/DcqS9q5kY+grSQ6wk5wZ491+K0mMzFpk1AgYI//Y0VPNw61yUodNrAy6HxcMnDJYy4x9y0c8bRlfeuIbr19PQ1QWc0+dW5BcXibQ3VyOsrRjsKSOosTNiMlPaTo0ZicoFb3Br79m93UJtbOZybXRc4pjj8MWjEzmqP1tzGGW12d1I6bVTHGP8A0eHQ942XiXZI9oD2IPwaxXhbxsdvpq5v1TZ5mMbH4Bod4oMrLy43FxMOVX8xl99xW78npHnpqhRIhZZzPNzl3aEfxDHfpRLTmGmzFxOIgSsC88u3YKaEH8C4bohGw+6f3CnTIx3C/NZidd7i7iMfUdlB6VbVMeOmZzcnblCf1LgZcTaw3WxNvM3LG3u3rQRHeEq8TMpHU7HaqFyenFz/AAVMgUG4s5JJYzt1JqdwrBQp7huV6KUo8th7n50ip/DvJhrjSpfHoP1/M3nMx3fb7pW+LDRkVvdRZq2jCLJ02UdC3rXV4bMpLZ6tu7QsBDcoqBfnemr4hMbHfcP7ppF3NuC6n5rP6vaNG5UTIB8L9+sulZrZDzcjs3T7oH4obGSGbG5FSBFK/lkkdthWA8K2sFxepDYXMoWK+IjAY9j3qrNVaax2qLOO2yaeZCjcy7elNOBNE1cH+Gk+q7tMhkYnixEbbkt/y7egp98RLvG6e0Be27PFbwtD5VvH2LsPQfNd+ezWJ0RpzzZwkNvCnLHAuwMm3t81J2v9ZZDWWYlubssLdP8AbjU7Kq+nT3qvkRRnBDL2GV0ULRJY3mjdmmgbqVU+ppbcaOFj4uSbN4GFpLFvzmhTvH7t9Uq9Kaiv9LZWLI4x2VlI3BO6t8EetVzoLWWO1thfMjC+dybT2r7E/J+jQ9AIXw32El9rG5nBBitEV26dvinBx9vlteH94jdBKpUE1qNMaSxWnLi6mxkPlNckl/8AO+1ILxa6vRvJwdtKpMH7rhT33Hak3I0iYMHkXxV/DPE7DlbdmU7H+varh4JcU7PVWJgtMlNHHkkAjTc7CUDsB81BwJZQp6DfvRTCZm6w90txZztE6eoPf6qSj6Ga90Nj9Z2Hk5BpBIP4FX2C/wBUjMvwHzVpKRYXsV1bk9AincD5oXw/8Rs9lDHDnImuIlHLyr0b/NOLFcbNL30SSSym1368rt1FMkVeM4F5+4n5J7qK1h9WkUkU6eHPDXH6Ni8y3lkkvGH5Scx5T/VD8hxn0tbRs8dyJyB1VW70qtc+JAPDJDgLdrfYEHzNiT9UAOLixxFsNFYeceaj5Rk/biB6r8n4qD9X56fUGZnvLh2kZ2LMSf8AyujJaouM3mv1uZkluImbd4i35MPYGgmReCW5Z7SNo4O/IT1H3SKP/9k=" alt="" />
-                            <div class="about">
-                                <div class="name">Overwatch® 2</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Action, Free to Play
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        45 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 31 Mar 2024
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            126 / 164 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCAwYE/8QAKBAAAQMCBQQCAwEAAAAAAAAAAQIDBAURAAYSITEHE0FRFGEycYEi/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAcEQABBAMBAAAAAAAAAAAAAAAAAQIREgMhMVH/2gAMAwEAAhEDEQA/AA+tPnFjkJ9KkDtK1r4QBdXAP488EYI3TLIKs6UipKhyIjFQizGC38oEocRZRUggb+AeN7W2xuOn2bYEHqpmduVCi0qZKlFCELTYrCNQLQUSAhSiAu5NjfT6xsv4JqL4WnEoKlIUEhWkkjYH1+/rEk7YYaPmMZl6vTaRRUQpUSdCdjTpKY2tkrTrLbpQrZXbJCdR/PV+sC7qV0/quRm4L9TciOJmOOoHxidKSkgiwO4uk3t4tbBI6dKSIMjTqiuHU4zrb0hhSHErS5Hc0LQfCkk7Aj7wchMyh1MqtCpz1OrkuvLHbk1RDLca6UcqcsVIXx4/hGFukOXXfViyPXKhDirix58xqKs6lMtPrQgn2QDbFIyyBOWBk89O0fpdVE0vL1BDj86C6WZDUtbkoySNKbpv/kJBKgbH6sbnAMzFmL5+XMu0tUl+S5TUPlxbhJALiwoITfc6QOfZsNhjHrnO9xTndc7h5XqOo/3nHMp8+MNbjr0C08P/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Die Die Die... Die</div>
-                                                <div class="unlocked">22 Oct 2023</div>
-                                            </div>
-                                            <div class="description">Kill 4 enemies with a single use of Reaper's Death Blossom in Quick or Competitive Play.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYIB//EACsQAAEDBAEDAQgDAAAAAAAAAAECAwQFBhEhABITYTEHFBUiM0FicjRCUf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEQMSIRP/2gAMAwEAAhEDEQA/AMfUnhWiW1UKy27JjIaYgM/WnSVhqO14Kz6n8Rk+OOHsct2m3NX5MKoJQZLTSZMYLBWhZSr5kLbyOtJBGQCDrX344X3adSk2ZWXa6tDtbo7iZUcxFlMZcJR6T22RhKCkhWdZ+UZJzzZv2hLiY9W7cqFGaafkobegvfRmxlh1h3wFjWfxOCP84MTrm6WVZ1SYtSg/AVts1eqEzZ6piiuMmJnCErYOUrKsjGs+uxxD9stFp1s3U3TqaE90s+8Sen5UpWtRISlG+hIAGE5J3s8tSTdEqgNYNxm3bxp873lMVtKi266poupCFDB6kDZT6Zxv7jY5SSLqiVGZSEV2MmE5KQ5EWS8HYk6O6nZZfGl4UlJ6ThYBOuRtIcyvIVjhe270qluNvR4rjUinP/Xp8tsPRnv2QdZ8jB88Hz2Vht0Vau8I0J6sot6Kic8yUx+6X+1BgR2k9KO8/wCg2Vq6E5VvGByX/aHX/jt5VSoCX742470tvBrtBSEgAdKP6p1oHePXeeC7pvWrXEhpiY62xTo/8enxGwzGZ/Vsaz5OT54tLfPHY8WnRblZ/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Centenary</div>
-                                                <div class="unlocked">22 Oct 2023</div>
-                                            </div>
-                                            <div class="description">Win 100 games in Quick or Competitive Play.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACgQAAEEAQQBBAIDAQAAAAAAAAECAwQFEQAGEiFBBxMxYSJxFBVCUf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIREjH/2gAMAwEAAhEDEQA/AI+tPnRam23NtLJuMpP8JspS45IkpKENtk4Cv+nJ6SBkqPQzpk9LUNt2l1YFll2RW1EmbG91AWlDyeISopPRxkkZ860Vze7H6a33y4/zca4JROlEreUSv2yWB8Ajljlj8ewnB1t6IuRRvdvy6exXGJTKawpbUiOCpDqAe1DyMfCgcFJyDjQxB1R93wtz7fWxuF6zhm4hvJjTH4LhD7Ly2wpIfGAlSijoqGc/Cs6Feq5bNtSz0tNNSLKnizZIaQEJU8sHkoJHQzgE486Kegww7AnsN3c2JIktRf7CukwW3Hl8W/ccRhAWfAKgBk9DI1ujypWzaPdVHuGLLh2stuKIjTiCUq9t8OKIV8cceRkHU1kOZWTy0zUXqDMgVwqLuMxf0I+IU4nLP2y4PybP66+tCZbHoou5LiNvaPbwNmMWFja39gxYSI5j8Ewktt8SlThODlXfLoY0i+p9qzIua2FHkMSRVVkauW8wrkhTjaTz4q/0AokZHRxoduL1EnT61VRSxmKGg8wYJI937ecP5OH99fWkpT58arMZ6Jun/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Level 10</div>
-                                                <div class="unlocked">22 Oct 2023</div>
-                                            </div>
-                                            <div class="description">Earn 10 battle pass tiers.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EACkQAAEEAQQBAwQDAQAAAAAAAAECAwQFEQAGEiFBBzFhEyIycRQVQlH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECESES/9oADAMBAAIRAxEAPwDH1p86rU225tpZNxlJ/hNlKXHJElJQhtsnAV/05PSQMlR6GdJPS1DbdpdWBZZdkVtRJmxvqoC0oeTxCVFJ6OMkjPnVHbcTcdyty/au4C7+al0xBLeK5Sw0klamhgpQQnISTjAzxx767fRFyCL3b8unsVxiUymsKW1IjgqQ6gHtQ8jHsoHBScg41MQdaHuRu8pmazcsm+ro96php9KY61olupcSClTg48FK4/kc5I986neq5bNtSz0tNNSLKnizZIaQEJU8sHkoJHQzgE486S6ZmHDsCew3dzYkiS1F/sK6TBbceXxb+o4jCAs+AVADJ6GRpTWJqNlUE+BdybCk3hLStt15dap/gx2ODKwoJ+/rLgz0cDGsakOZWTy0movUGZArhUXcZi/oR7QpxOWfllwfc2f118aMy2h1w0Vy6VuzbE2ho5l3uOwnoihiDKjhKawtfmsuDCAD+IIx0e9BfU+1ZkXNbCjyGJIqqyNXLdYVyQpxtJ58Vf6AUSMjo41O3F6iTp9aqopYzFDQeYMEkfV+XnD9zh/fXxoUp8+NVmM6wbp//9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Level 25</div>
-                                                <div class="unlocked">22 Oct 2023</div>
-                                            </div>
-                                            <div class="description">Earn 25 battle pass tiers.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACgQAAEEAQMDBAIDAAAAAAAAAAECAwQFEQAGIQcSQRMUMWEicRVCUf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAhIh/9oADAMBAAIRAxEAPwCPrT50WpttzbSybjKT7JspS45IkpKENtk4Cv8ATk8JAyVHgZ0ydLUNt2l1YFll2RW1EmbG9VAWlDye0JUUng4ySM+dbaNu8nQJe8Ze4K+NKcdWw3MslrU8FIQCotAJKUnCgkHjGcJxrt6IvImXu35dPYrjEplNYUtqRHBUh1APKh5GPhQOCk5BxoYg6o+5IW6Khljc7ljFRcw/R94uItSZLJeRlovjASpSkjBIzngKz86FdVy2balnpaaakWVPFmyQ0gISp5YPcoJHAzgE486KdNIYdgT2G7ubEkSWov8AIV0mC248vtb9RxGEBZ8AqAGTwMjTjty7VsKM1B3PNu4MiJ7ku0TkcLjTg4khJSscduTkklQ441EpDmVk92mai6gzIFcKi7jMX9CPiFOJyz9suD8mz+uPrQWKhtOFJt71jekC6ibUjz597uEQPcQxH7UQhHRhRLpPaQSBg8AD50g9T7VmRc1sKPIYkiqrI1ct5hXchTjaT39qv7AKJGRwcaHbi6iTp9aqopYzFDQeYMEker9vOH8nD++PrSUp8+NVziesS0//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Level 50</div>
-                                                <div class="unlocked">22 Oct 2023</div>
-                                            </div>
-                                            <div class="description">Earn 50 battle pass tiers.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+121 others...</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAABwUGAAQIAQP/xAAxEAABAgUDAwIEBQUAAAAAAAABAgMABAUGEQchQRIxUWFxFCIyUggTFUJiIyWhscH/xAAaAQADAAMBAAAAAAAAAAAAAAADBAUAAQIG/8QAKREAAQMEAQEHBQAAAAAAAAAAAQACAwQFERIhMRQiNFFxgfAkMkJhkf/aAAwDAQACEQMRAD8A5VhJ083pKh/IwbGEjTxJ/SlH+RgM/wBirWXxPsVZ1oPUCeO8fBIznOxB29I23RkJIO4/zEhaNDeuK5ZSmtD+m6vDyvtTCjeV6iYBmXHoOSoRQBwM5X5jZbX9IP0/9ib1EtldoXN8CvJlCkFtzyTEAhQCt+Y24EcFcQSteN2ngqKvc/2J72gnEKt6qBobw9IKhDNPw1efvpBqBjyXsJumiUqpK8/cYMjCfpsM0deO/UYypOGLVhGasehVoeKUoURsIf8AQ+1kUCguVqpgImJgblY+lHBgn03tpy57oZZKSqVlyFvHjEK2utzooVsJodPWBMTCA0oJ7oRjYwGFoA3Kq3aYyvbSR9T1/QUnq3bUtedouTdPKXZuVBWypP7j4jlptakqLbuy0qLa08gjvDr+HW7ctuW5UXepafnaUs56ieIp2ulnqt66E1KUbKZCcVjPAX3MdvAcNwkaRzqaU0zvZEl3jNFe8Ygz4hPvBPTQ3vUQYcQSA91KXgETDPksMJ2m5UKOspH7j/uDHiF3SlrrormRyYHWHWPKJYT9WPQrrHRelSFNtND8q82884SXXRx6H2gn1mRQXq69NMzqp2pKHThCz0ox5ERDM1O0+WelpebcZaeTjCVEA+0Vwya1FbiwouZ3UrcmExVNcwNAVlluc2odO5+c/OVPaYtUE1+VeqU0uQnGV9TbqlkJUfGI6H1EpshWbLmW551sJ/Ky28rsD5EcrMSC3XglKfl755EWp6cqBpSKc7NuqlkbgKUSY32tsY1I6odRbzNK2UPxg/MI6vqXDVvzCEkKSglIV5A5gjhov9ARbD3sYFx2hmidszKlXzxA9F732ENWjjSV26tR2V1qECohCse9ZS3aIZZ2XW471E7HzGV0bpItWDJS9qnbBPu84GEyONpOAobiNN5OAUgpHvBbUdU5x1R+DZDY46gDFZn7yq84sqcfCc/aMROjt8v5cK6+907R3ckp5bclJZoiZdQ0fJMQ9SuujSoKVTjasesA8xUZyYPU9NOq9OsxqKKlH5iT7mGW20Zy5ynPvjs5Y3+pKvK8ZCpUlyUlkkk53zBpGERmNofihbC3VqlVNU+pdvJ1X//Z" alt="" />
                             <div class="about">
                                 <div class="name">Apex Legends</div>
@@ -1242,7 +1147,7 @@ Add notice about ignoring Root Builder cached data</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        190 hours played
+                                        194 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1250,7 +1155,7 @@ Add notice about ignoring Root Builder cached data</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 31 Mar 2024
+                                        Last played on 2 Apr 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1337,7 +1242,7 @@ Add notice about ignoring Root Builder cached data</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        44 hours played
+                                        46 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1345,7 +1250,7 @@ Add notice about ignoring Root Builder cached data</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 31 Mar 2024
+                                        Last played on 2 Apr 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1415,12 +1320,107 @@ Add notice about ignoring Root Builder cached data</div>
                                 </div>
                             </div>
                         </div>
+                        <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAABQcIBgQACf/EADAQAAIBAwIEBgEEAQUAAAAAAAECAwAEBQYRBxIhMQgTQVFhcSIUIzKBkRUzQ2Kh/8QAGgEAAwEBAQEAAAAAAAAAAAAAAAECAwYEBf/EACIRAAIBBAIBBQAAAAAAAAAAAAABEQIDBCESEyIUIzEyQv/aAAwDAQACEQMRAD8Alg7t6du9dVpZy3kqJChkLHbZa9jrSS8uUiiUszHYgU78LpSTR09uuZsmhjuUVoZJB0JI3qLl1WaG42bWbTv1qlsyWneHUsxV7smLcb9a21noq0hASRmcD2NHr/J22MiDTuG3G4C1m7nWDcxNtFsvua57szMu5FChHTenwcShO45Z03GjbJ1KxF039zWPz/DcqS9q5kY+grSQ6wk5wZ491+K0mMzFpk1AgYI//Y0VPNw61yUodNrAy6HxcMnDJYy4x9y0c8bRlfeuIbr19PQ1QWc0+dW5BcXibQ3VyOsrRjsKSOosTNiMlPaTo0ZicoFb3Br79m93UJtbOZybXRc4pjj8MWjEzmqP1tzGGW12d1I6bVTHGP8A0eHQ942XiXZI9oD2IPwaxXhbxsdvpq5v1TZ5mMbH4Bod4oMrLy43FxMOVX8xl99xW78npHnpqhRIhZZzPNzl3aEfxDHfpRLTmGmzFxOIgSsC88u3YKaEH8C4bohGw+6f3CnTIx3C/NZidd7i7iMfUdlB6VbVMeOmZzcnblCf1LgZcTaw3WxNvM3LG3u3rQRHeEq8TMpHU7HaqFyenFz/AAVMgUG4s5JJYzt1JqdwrBQp7huV6KUo8th7n50ip/DvJhrjSpfHoP1/M3nMx3fb7pW+LDRkVvdRZq2jCLJ02UdC3rXV4bMpLZ6tu7QsBDcoqBfnemr4hMbHfcP7ppF3NuC6n5rP6vaNG5UTIB8L9+sulZrZDzcjs3T7oH4obGSGbG5FSBFK/lkkdthWA8K2sFxepDYXMoWK+IjAY9j3qrNVaax2qLOO2yaeZCjcy7elNOBNE1cH+Gk+q7tMhkYnixEbbkt/y7egp98RLvG6e0Be27PFbwtD5VvH2LsPQfNd+ezWJ0RpzzZwkNvCnLHAuwMm3t81J2v9ZZDWWYlubssLdP8AbjU7Kq+nT3qvkRRnBDL2GV0ULRJY3mjdmmgbqVU+ppbcaOFj4uSbN4GFpLFvzmhTvH7t9Uq9Kaiv9LZWLI4x2VlI3BO6t8EetVzoLWWO1thfMjC+dybT2r7E/J+jQ9AIXw32El9rG5nBBitEV26dvinBx9vlteH94jdBKpUE1qNMaSxWnLi6mxkPlNckl/8AO+1ILxa6vRvJwdtKpMH7rhT33Hak3I0iYMHkXxV/DPE7DlbdmU7H+varh4JcU7PVWJgtMlNHHkkAjTc7CUDsB81BwJZQp6DfvRTCZm6w90txZztE6eoPf6qSj6Ga90Nj9Z2Hk5BpBIP4FX2C/wBUjMvwHzVpKRYXsV1bk9AincD5oXw/8Rs9lDHDnImuIlHLyr0b/NOLFcbNL30SSSym1368rt1FMkVeM4F5+4n5J7qK1h9WkUkU6eHPDXH6Ni8y3lkkvGH5Scx5T/VD8hxn0tbRs8dyJyB1VW70qtc+JAPDJDgLdrfYEHzNiT9UAOLixxFsNFYeceaj5Rk/biB6r8n4qD9X56fUGZnvLh2kZ2LMSf8AyujJaouM3mv1uZkluImbd4i35MPYGgmReCW5Z7SNo4O/IT1H3SKP/9k=" alt="" />
+                            <div class="about">
+                                <div class="name">Overwatch® 2</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Action, Free to Play
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        46 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 2 Apr 2024
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            126 / 164 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCAwYE/8QAKBAAAQMCBQQCAwEAAAAAAAAAAQIDBAURAAYSITEHE0FRFGEycYEi/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAcEQABBAMBAAAAAAAAAAAAAAAAAQIREgMhMVH/2gAMAwEAAhEDEQA/AA+tPnFjkJ9KkDtK1r4QBdXAP488EYI3TLIKs6UipKhyIjFQizGC38oEocRZRUggb+AeN7W2xuOn2bYEHqpmduVCi0qZKlFCELTYrCNQLQUSAhSiAu5NjfT6xsv4JqL4WnEoKlIUEhWkkjYH1+/rEk7YYaPmMZl6vTaRRUQpUSdCdjTpKY2tkrTrLbpQrZXbJCdR/PV+sC7qV0/quRm4L9TciOJmOOoHxidKSkgiwO4uk3t4tbBI6dKSIMjTqiuHU4zrb0hhSHErS5Hc0LQfCkk7Aj7wchMyh1MqtCpz1OrkuvLHbk1RDLca6UcqcsVIXx4/hGFukOXXfViyPXKhDirix58xqKs6lMtPrQgn2QDbFIyyBOWBk89O0fpdVE0vL1BDj86C6WZDUtbkoySNKbpv/kJBKgbH6sbnAMzFmL5+XMu0tUl+S5TUPlxbhJALiwoITfc6QOfZsNhjHrnO9xTndc7h5XqOo/3nHMp8+MNbjr0C08P/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Die Die Die... Die</div>
+                                                <div class="unlocked">22 Oct 2023</div>
+                                            </div>
+                                            <div class="description">Kill 4 enemies with a single use of Reaper's Death Blossom in Quick or Competitive Play.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYIB//EACsQAAEDBAEDAQgDAAAAAAAAAAECAwQFBhEhABITYTEHFBUiM0FicjRCUf/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEQMSIRP/2gAMAwEAAhEDEQA/AMfUnhWiW1UKy27JjIaYgM/WnSVhqO14Kz6n8Rk+OOHsct2m3NX5MKoJQZLTSZMYLBWhZSr5kLbyOtJBGQCDrX344X3adSk2ZWXa6tDtbo7iZUcxFlMZcJR6T22RhKCkhWdZ+UZJzzZv2hLiY9W7cqFGaafkobegvfRmxlh1h3wFjWfxOCP84MTrm6WVZ1SYtSg/AVts1eqEzZ6piiuMmJnCErYOUrKsjGs+uxxD9stFp1s3U3TqaE90s+8Sen5UpWtRISlG+hIAGE5J3s8tSTdEqgNYNxm3bxp873lMVtKi266poupCFDB6kDZT6Zxv7jY5SSLqiVGZSEV2MmE5KQ5EWS8HYk6O6nZZfGl4UlJ6ThYBOuRtIcyvIVjhe270qluNvR4rjUinP/Xp8tsPRnv2QdZ8jB88Hz2Vht0Vau8I0J6sot6Kic8yUx+6X+1BgR2k9KO8/wCg2Vq6E5VvGByX/aHX/jt5VSoCX742470tvBrtBSEgAdKP6p1oHePXeeC7pvWrXEhpiY62xTo/8enxGwzGZ/Vsaz5OT54tLfPHY8WnRblZ/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Centenary</div>
+                                                <div class="unlocked">22 Oct 2023</div>
+                                            </div>
+                                            <div class="description">Win 100 games in Quick or Competitive Play.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACgQAAEEAQQBBAIDAQAAAAAAAAECAwQFEQAGEiFBBxMxYSJxFBVCUf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAZEQADAQEBAAAAAAAAAAAAAAAAAQIREjH/2gAMAwEAAhEDEQA/AI+tPnRam23NtLJuMpP8JspS45IkpKENtk4Cv+nJ6SBkqPQzpk9LUNt2l1YFll2RW1EmbG91AWlDyeISopPRxkkZ860Vze7H6a33y4/zca4JROlEreUSv2yWB8Ajljlj8ewnB1t6IuRRvdvy6exXGJTKawpbUiOCpDqAe1DyMfCgcFJyDjQxB1R93wtz7fWxuF6zhm4hvJjTH4LhD7Ly2wpIfGAlSijoqGc/Cs6Feq5bNtSz0tNNSLKnizZIaQEJU8sHkoJHQzgE486Kegww7AnsN3c2JIktRf7CukwW3Hl8W/ccRhAWfAKgBk9DI1ujypWzaPdVHuGLLh2stuKIjTiCUq9t8OKIV8cceRkHU1kOZWTy0zUXqDMgVwqLuMxf0I+IU4nLP2y4PybP66+tCZbHoou5LiNvaPbwNmMWFja39gxYSI5j8Ewktt8SlThODlXfLoY0i+p9qzIua2FHkMSRVVkauW8wrkhTjaTz4q/0AokZHRxoduL1EnT61VRSxmKGg8wYJI937ecP5OH99fWkpT58arMZ6Jun/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Level 10</div>
+                                                <div class="unlocked">22 Oct 2023</div>
+                                            </div>
+                                            <div class="description">Earn 10 battle pass tiers.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EACkQAAEEAQQBAwQDAQAAAAAAAAECAwQFEQAGEiFBBzFhEyIycRQVQlH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECESES/9oADAMBAAIRAxEAPwDH1p86rU225tpZNxlJ/hNlKXHJElJQhtsnAV/05PSQMlR6GdJPS1DbdpdWBZZdkVtRJmxvqoC0oeTxCVFJ6OMkjPnVHbcTcdyty/au4C7+al0xBLeK5Sw0klamhgpQQnISTjAzxx767fRFyCL3b8unsVxiUymsKW1IjgqQ6gHtQ8jHsoHBScg41MQdaHuRu8pmazcsm+ro96php9KY61olupcSClTg48FK4/kc5I986neq5bNtSz0tNNSLKnizZIaQEJU8sHkoJHQzgE486S6ZmHDsCew3dzYkiS1F/sK6TBbceXxb+o4jCAs+AVADJ6GRpTWJqNlUE+BdybCk3hLStt15dap/gx2ODKwoJ+/rLgz0cDGsakOZWTy0movUGZArhUXcZi/oR7QpxOWfllwfc2f118aMy2h1w0Vy6VuzbE2ho5l3uOwnoihiDKjhKawtfmsuDCAD+IIx0e9BfU+1ZkXNbCjyGJIqqyNXLdYVyQpxtJ58Vf6AUSMjo41O3F6iTp9aqopYzFDQeYMEkfV+XnD9zh/fXxoUp8+NVmM6wbp//9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Level 25</div>
+                                                <div class="unlocked">22 Oct 2023</div>
+                                            </div>
+                                            <div class="description">Earn 25 battle pass tiers.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACgQAAEEAQMDBAIDAAAAAAAAAAECAwQFEQAGIQcSQRMUMWEicRVCUf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAhIh/9oADAMBAAIRAxEAPwCPrT50WpttzbSybjKT7JspS45IkpKENtk4Cv8ATk8JAyVHgZ0ydLUNt2l1YFll2RW1EmbG9VAWlDye0JUUng4ySM+dbaNu8nQJe8Ze4K+NKcdWw3MslrU8FIQCotAJKUnCgkHjGcJxrt6IvImXu35dPYrjEplNYUtqRHBUh1APKh5GPhQOCk5BxoYg6o+5IW6Khljc7ljFRcw/R94uItSZLJeRlovjASpSkjBIzngKz86FdVy2balnpaaakWVPFmyQ0gISp5YPcoJHAzgE486KdNIYdgT2G7ubEkSWov8AIV0mC248vtb9RxGEBZ8AqAGTwMjTjty7VsKM1B3PNu4MiJ7ku0TkcLjTg4khJSscduTkklQ441EpDmVk92mai6gzIFcKi7jMX9CPiFOJyz9suD8mz+uPrQWKhtOFJt71jekC6ibUjz597uEQPcQxH7UQhHRhRLpPaQSBg8AD50g9T7VmRc1sKPIYkiqrI1ct5hXchTjaT39qv7AKJGRwcaHbi6iTp9aqopYzFDQeYMEker9vOH8nD++PrSUp8+NVziesS0//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Level 50</div>
+                                                <div class="unlocked">22 Oct 2023</div>
+                                            </div>
+                                            <div class="description">Earn 50 battle pass tiers.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+121 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2024, 07:02:00 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2024, 07:01:51 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
