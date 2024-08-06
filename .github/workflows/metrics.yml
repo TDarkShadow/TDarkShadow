@@ -29,9 +29,3 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_visibility: public
           plugin_activity_filter: all
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam: yes
-          plugin_steam_user: "76561198010130789"
-          plugin_steam_games_limit: 3
-          plugin_steam_recent_games_limit: 3
-          plugin_steam_achievements_limit: 5
